@@ -1,0 +1,22 @@
+{
+  "htmlPages": 86,
+  "articles": 71,
+  "airports": 29,
+  "planRecords": 240,
+  "searchCases": 61,
+  "searchPassed": 61,
+  "reviewChineseRange": [
+    1503,
+    1759
+  ],
+  "routeDescriptions": 24,
+  "aiDescriptions": 18,
+  "streamingDescriptions": 18,
+  "officialLivePriceVerifications": 0,
+  "typecheck": {
+    "errors": 0,
+    "warnings": 0,
+    "hints": 0
+  },
+  "githubPushed": false
+}

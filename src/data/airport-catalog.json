@@ -1,0 +1,4917 @@
+[
+  {
+    "id": "lingdong",
+    "name": "灵动云",
+    "aliases": [],
+    "rank": 1,
+    "officialUrl": "https://varnexa.lingdongaff.com/#/?code=HHoxxHGa",
+    "reviewUrl": "/reviews/lingdong/",
+    "summary": "月付、全年小流量与买断包并存；全年70GB不能当成每月70GB。",
+    "plans": [
+      {
+        "name": "灵动·拂风",
+        "price": 20,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 100,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/lingdongyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "灵动·驭浪",
+        "price": 50,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 300,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/lingdongyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "灵动·破晓",
+        "price": 100,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 700,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/lingdongyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "灵动·凌霄",
+        "price": 180,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/lingdongyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "至尊私人定制",
+        "price": 620,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/lingdongyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "灵动·穿云",
+        "price": 99,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 70,
+        "trafficReset": "year",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/lingdongyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "灵动·闲云",
+        "price": 199,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 150,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/lingdongyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "灵动·惊云",
+        "price": 499,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 400,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/lingdongyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "灵动·飞云",
+        "price": 899,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 800,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/lingdongyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "Trojan 专线"
+    ],
+    "protocols": [
+      "Trojan"
+    ],
+    "regions": [],
+    "aiSupport": [
+      "ChatGPT"
+    ],
+    "streamingSupport": [
+      "主流流媒体"
+    ],
+    "supportedClients": "通用订阅",
+    "subscriptionSupport": "支持",
+    "sourceUrl": "https://www.ermao.net/blog/lingdongyun/",
+    "verificationStatus": "公开资料参考",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [],
+    "missing": [
+      "可回溯地区清单",
+      "AI独立验证",
+      "流媒体独立验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/blog/lingdongyun/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "muguang",
+    "name": "暮光加速",
+    "aliases": [],
+    "rank": 2,
+    "officialUrl": "https://varnexa.twilightaff.com/#/?code=rkRvrsRc",
+    "reviewUrl": "/reviews/muguang/",
+    "summary": "20元120GB起，年付轻量版70GB为全年额度，适合分清周期后再选择。",
+    "plans": [
+      {
+        "name": "暮光·基础版",
+        "price": 20,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 120,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/twilight-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "暮光·标准版",
+        "price": 40,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 300,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/twilight-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "暮光·旗舰版",
+        "price": 100,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 700,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/twilight-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "暮光·至尊版",
+        "price": 180,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/twilight-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "年付轻量版",
+        "price": 109,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 70,
+        "trafficReset": "year",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/twilight-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "不限时轻量包",
+        "price": 219,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 150,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/twilight-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "不限时标准包",
+        "price": 529,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 400,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/twilight-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "不限时大容量包",
+        "price": 959,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 800,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/twilight-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "专线（类型未细分）"
+    ],
+    "protocols": [
+      "VLESS"
+    ],
+    "regions": [
+      "香港",
+      "台湾",
+      "日本",
+      "新加坡",
+      "美国"
+    ],
+    "aiSupport": [
+      "ChatGPT"
+    ],
+    "streamingSupport": [
+      "主流流媒体"
+    ],
+    "supportedClients": "通用订阅",
+    "subscriptionSupport": "支持",
+    "sourceUrl": "https://www.ermao.net/blog/twilight-airport/",
+    "verificationStatus": "公开资料参考",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [],
+    "missing": [
+      "AI独立验证",
+      "流媒体独立验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/blog/twilight-airport/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "feimaoyun",
+    "name": "飞猫云",
+    "aliases": [],
+    "rank": 3,
+    "officialUrl": "https://flycat1.flycatvipaff.cc/#/?code=AuJYgbpn",
+    "reviewUrl": "/reviews/feimaoyun/",
+    "summary": "学生版84元年付50GB/月，与25元150GB月付分属两种付款方式。",
+    "plans": [
+      {
+        "name": "学生版",
+        "price": 84,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 50,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://tuijianjichang.wiki/review/feimao",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "星耀版",
+        "price": 25,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 150,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://tuijianjichang.wiki/review/feimao",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "星环版",
+        "price": 45,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 300,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://tuijianjichang.wiki/review/feimao",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "银河版",
+        "price": 85,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 600,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://tuijianjichang.wiki/review/feimao",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "宇宙版",
+        "price": 150,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1000,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://tuijianjichang.wiki/review/feimao",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "不限时套餐",
+        "price": 680,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 1000,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://tuijianjichang.wiki/review/feimao",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "定制套餐（历史记录）",
+        "price": 550,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 500,
+        "trafficReset": "month",
+        "note": "历史定制记录，在售状态未确认",
+        "sourceUrl": "https://mesee.net/brands/feimaoyun",
+        "verificationStatus": "来源存在冲突",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": false
+      }
+    ],
+    "routes": [],
+    "protocols": [],
+    "regions": [
+      "香港",
+      "台湾",
+      "日本",
+      "新加坡",
+      "美国",
+      "德国",
+      "越南",
+      "菲律宾",
+      "土耳其"
+    ],
+    "aiSupport": [
+      "ChatGPT",
+      "Claude",
+      "Gemini"
+    ],
+    "streamingSupport": [
+      "Netflix",
+      "Disney+"
+    ],
+    "supportedClients": "服务面板指引",
+    "subscriptionSupport": "需确认格式",
+    "sourceUrl": "https://tuijianjichang.wiki/review/feimao",
+    "verificationStatus": "来源存在冲突",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [
+      "用户表与tuijianjichang.wiki六档一致；feimaoyunjc.com显示15/28/0元另一套表且设备说明自相矛盾，品牌归属无法确认，不用于最低价。",
+      "线路来源有IPLC/IEPL说法，主参考明确未核验，前台不指定线路类型。"
+    ],
+    "missing": [
+      "具体线路类型",
+      "具体协议",
+      "AI独立验证",
+      "流媒体独立验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://tuijianjichang.wiki/review/feimao",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "dalaoyun",
+    "name": "大佬云",
+    "aliases": [],
+    "rank": 4,
+    "officialUrl": "https://www1.dalaoyuntt.xyz/#/?code=r0yLHfTq",
+    "reviewUrl": "/reviews/dalaoyun/",
+    "summary": "年付活动、三档月付与一次性包并存；初云的120/130GB差异需结算确认。",
+    "plans": [
+      {
+        "name": "年付活动包",
+        "price": 96,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 60,
+        "trafficReset": "days30",
+        "note": "",
+        "sourceUrl": "https://www.jichangnode.wiki/blog/dalaocloud-monthly-research/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "初云·入门版",
+        "price": 23,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": null,
+        "trafficReset": "days30",
+        "note": "同一档出现120GB与130GB，容量以结算页为准",
+        "sourceUrl": "https://jichangnetwork.blog/blog/dalaocloud-monthly-research/",
+        "verificationStatus": "来源存在冲突",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "凌云·基础版",
+        "price": 43,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 300,
+        "trafficReset": "days30",
+        "note": "",
+        "sourceUrl": "https://jichangnetwork.blog/blog/dalaocloud-monthly-research/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "御云·高级版",
+        "price": 73,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 600,
+        "trafficReset": "days30",
+        "note": "",
+        "sourceUrl": "https://jichangnetwork.blog/blog/dalaocloud-monthly-research/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "闲云·随心包",
+        "price": 99,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 78,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://jichangnetwork.blog/blog/dalaocloud-monthly-research/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "悠云·长享包",
+        "price": 199,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 160,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://jichangnetwork.blog/blog/dalaocloud-monthly-research/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "IEPL / IPLC（公开说明）"
+    ],
+    "protocols": [],
+    "regions": [],
+    "aiSupport": [],
+    "streamingSupport": [],
+    "supportedClients": "服务面板指引",
+    "subscriptionSupport": "需确认格式",
+    "sourceUrl": "https://jichangnetwork.blog/blog/dalaocloud-monthly-research/",
+    "verificationStatus": "来源存在冲突",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [
+      "初云23元对应120GB/130GB两种标注，未选择其中一项作为确定流量。"
+    ],
+    "missing": [
+      "初云明确流量",
+      "套餐在售状态",
+      "原始入口身份进一步确认",
+      "具体协议",
+      "可回溯地区清单",
+      "AI逐节点功能验证",
+      "流媒体逐节点功能验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://jichangnetwork.blog/blog/dalaocloud-monthly-research/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "breezenet",
+    "name": "微风网络",
+    "aliases": [
+      "Breezenet",
+      "Breeze Network"
+    ],
+    "rank": 5,
+    "officialUrl": "https://edp01.breezenetaff.com/#/?code=7zY9KCxp",
+    "reviewUrl": "/reviews/breezenet/",
+    "summary": "清风年付100GB/月，乘风月付200GB，并有270GB与570GB总量包。",
+    "plans": [
+      {
+        "name": "清风",
+        "price": 137,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 100,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://breezenetwork.my/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "乘风",
+        "price": 27,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 200,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://breezenetwork.my/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "破风",
+        "price": 57,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://breezenetwork.my/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "御风",
+        "price": 127,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1200,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://breezenetwork.my/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "信风",
+        "price": 200,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 270,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://breezenetwork.my/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "长风",
+        "price": 370,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 570,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://breezenetwork.my/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "IPLC"
+    ],
+    "protocols": [
+      "VLESS"
+    ],
+    "regions": [],
+    "aiSupport": [
+      "ChatGPT",
+      "Claude",
+      "Gemini"
+    ],
+    "streamingSupport": [
+      "Netflix",
+      "Disney+",
+      "YouTube"
+    ],
+    "supportedClients": "兼容客户端订阅",
+    "subscriptionSupport": "支持",
+    "sourceUrl": "https://breezenetwork.my/",
+    "verificationStatus": "公开资料参考",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "线路检测页，无公开套餐",
+    "conflicts": [],
+    "missing": [
+      "可回溯地区清单",
+      "AI独立验证",
+      "流媒体独立验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://breezenetwork.my/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "laddercloud",
+    "name": "梯子云",
+    "aliases": [
+      "LadderCloud"
+    ],
+    "rank": 6,
+    "officialUrl": "https://varnexa.ladderaff.com/#/?code=NSTRhs22",
+    "reviewUrl": "/reviews/laddercloud/",
+    "summary": "25元125GB月付，自研客户端与标准订阅两种配置路径可比较。",
+    "plans": [
+      {
+        "name": "初阶网络·基础视界",
+        "price": 25,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 125,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/laddercloud/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "中阶加速·极清多线",
+        "price": 60,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 350,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/laddercloud/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "高阶专线·全球智联",
+        "price": 110,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 750,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/laddercloud/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "顶阶商业·全球骨干",
+        "price": 190,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1600,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/laddercloud/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "云端独享·私人定制",
+        "price": 650,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/laddercloud/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "天梯随行·年度保活",
+        "price": 89,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 60,
+        "trafficReset": "year",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/laddercloud/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "云端买断·轻量包",
+        "price": 169,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 120,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/laddercloud/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "云端买断·标准包",
+        "price": 449,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 350,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/laddercloud/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "云端买断·精英包",
+        "price": 849,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 700,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/laddercloud/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "IEPL"
+    ],
+    "protocols": [
+      "VLESS"
+    ],
+    "regions": [
+      "香港",
+      "台湾",
+      "日本",
+      "新加坡",
+      "美国"
+    ],
+    "aiSupport": [
+      "ChatGPT",
+      "Claude"
+    ],
+    "streamingSupport": [
+      "Netflix",
+      "Disney+",
+      "TikTok"
+    ],
+    "supportedClients": "自研客户端与通用订阅",
+    "subscriptionSupport": "支持",
+    "sourceUrl": "https://www.ermao.net/blog/laddercloud/",
+    "verificationStatus": "公开资料参考",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [],
+    "missing": [
+      "AI独立验证",
+      "流媒体独立验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/blog/laddercloud/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "invisible",
+    "name": "隐形人",
+    "aliases": [],
+    "rank": 7,
+    "officialUrl": "https://varnexa.invisibleaff.com/#/?code=PoecAA0c",
+    "reviewUrl": "/reviews/invisible/",
+    "summary": "144GB月付入门，年付80GB按年重置，买断包分别限制1/2/3台设备。",
+    "plans": [
+      {
+        "name": "白银纪元",
+        "price": 24,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 144,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/invisible-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "黄金序列",
+        "price": 48,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 360,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/invisible-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "铂金至臻",
+        "price": 105,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 750,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/invisible-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "钻石穹顶",
+        "price": 185,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1600,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/invisible-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "星耀风暴",
+        "price": 109,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 80,
+        "trafficReset": "year",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/invisible-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "一次性小流量（1台设备）",
+        "price": 229,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 160,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/invisible-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "标准流量包（2台设备）",
+        "price": 549,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 420,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/invisible-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "精英流量包（3台设备）",
+        "price": 1199,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 1000,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/invisible-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "IEPL"
+    ],
+    "protocols": [],
+    "regions": [],
+    "aiSupport": [],
+    "streamingSupport": [],
+    "supportedClients": "通用订阅",
+    "subscriptionSupport": "支持",
+    "sourceUrl": "https://www.ermao.net/blog/invisible-airport/",
+    "verificationStatus": "来源存在冲突",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [
+      "年付80GB的月流量字段与详细年重置说明冲突，采用后者全年额度。",
+      "小流量买断包有不限设备与限1台冲突，采用具体设备条款。"
+    ],
+    "missing": [
+      "具体协议",
+      "可回溯地区清单",
+      "AI逐节点功能验证",
+      "流媒体逐节点功能验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/blog/invisible-airport/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "wavenet",
+    "name": "浪网",
+    "aliases": [
+      "WaveNet"
+    ],
+    "rank": 8,
+    "officialUrl": "https://varnexa.wavenetaff.com/#/?code=Thua5OyI",
+    "reviewUrl": "/reviews/wavenet/",
+    "summary": "150GB至2TB月付阶梯，提供自研客户端和带设备条件的一次性包。",
+    "plans": [
+      {
+        "name": "入门",
+        "price": 30,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 150,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/wangwang-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "进阶",
+        "price": 70,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 400,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/wangwang-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "高端",
+        "price": 120,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 800,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/wangwang-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "商业",
+        "price": 200,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 2000,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/wangwang-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "定制线路包",
+        "price": 640,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/wangwang-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "年付标准",
+        "price": 119,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 80,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/wangwang-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "小流量包（1台设备）",
+        "price": 239,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 180,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/wangwang-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "标准流量包（2台设备）",
+        "price": 569,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 450,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/wangwang-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "精英流量包",
+        "price": 1099,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 900,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/wangwang-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "BGP调度 / 专线出口"
+    ],
+    "protocols": [
+      "VLESS"
+    ],
+    "regions": [],
+    "aiSupport": [
+      "ChatGPT",
+      "Claude"
+    ],
+    "streamingSupport": [
+      "主流流媒体"
+    ],
+    "supportedClients": "自研客户端",
+    "subscriptionSupport": "需按设备取得配置",
+    "sourceUrl": "https://www.ermao.net/blog/wangwang-airport/",
+    "verificationStatus": "来源存在冲突",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [
+      "支持第三方客户端不等于提供标准通用订阅，资料正文明确标准通用订阅暂不提供。"
+    ],
+    "missing": [
+      "可回溯地区清单",
+      "AI独立验证",
+      "流媒体独立验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/blog/wangwang-airport/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "feiv",
+    "name": "飞V",
+    "aliases": [
+      "FlyV"
+    ],
+    "rank": 9,
+    "officialUrl": "https://varnexa.flyvaff.com/#/?code=1mq17Z8C",
+    "reviewUrl": "/reviews/feiv/",
+    "summary": "25元150GB月付与99元年付轻量分开列示，单次包按总额度计算。",
+    "plans": [
+      {
+        "name": "入门方案",
+        "price": 25,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 150,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://jichangtan.com/airports/flyv/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "进阶方案",
+        "price": 50,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 380,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://jichangtan.com/airports/flyv/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "高端方案",
+        "price": 110,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 800,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://jichangtan.com/airports/flyv/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "商业方案",
+        "price": 190,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1843,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://jichangtan.com/airports/flyv/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "年付标准轻量版",
+        "price": 99,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 65,
+        "trafficReset": "days30",
+        "note": "30天重置来自用户历史参考，公开品牌表未说明",
+        "sourceUrl": "https://jichangtan.com/airports/flyv/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "单次小流量包",
+        "price": 189,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 130,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://jichangtan.com/airports/flyv/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "单次标准包",
+        "price": 479,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 380,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://jichangtan.com/airports/flyv/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "单次精英包",
+        "price": 799,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 600,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://jichangtan.com/airports/flyv/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "IEPL"
+    ],
+    "protocols": [],
+    "regions": [],
+    "aiSupport": [],
+    "streamingSupport": [],
+    "supportedClients": "按面板格式导入",
+    "subscriptionSupport": "需确认格式",
+    "sourceUrl": "https://jichangtan.com/airports/flyv/",
+    "verificationStatus": "公开资料参考",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [],
+    "missing": [
+      "具体协议",
+      "可回溯地区清单",
+      "AI逐节点功能验证",
+      "流媒体逐节点功能验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://jichangtan.com/airports/flyv/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "stardream",
+    "name": "星岛梦",
+    "aliases": [
+      "StarDream"
+    ],
+    "rank": 10,
+    "officialUrl": "https://kfccbb.xingdaomeng.com/#/?code=8OfXD5OF",
+    "reviewUrl": "/reviews/stardream/",
+    "summary": "16元100GB月付起，另有1000GB买断与定制方案，线路名称存在差异。",
+    "plans": [
+      {
+        "name": "极速版",
+        "price": 16,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 100,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/xingdaomeng/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "进阶版",
+        "price": 32,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 200,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/xingdaomeng/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "闪光版",
+        "price": 80,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/xingdaomeng/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "旗舰版",
+        "price": 160,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1000,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/xingdaomeng/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "定制套餐",
+        "price": 680,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/xingdaomeng/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "永久不限时（服务方名称）",
+        "price": 680,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 1000,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/xingdaomeng/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "专线（IEPL/IPLC表述并存）"
+    ],
+    "protocols": [
+      "Trojan / Shadowsocks"
+    ],
+    "regions": [
+      "香港",
+      "台湾",
+      "日本",
+      "新加坡",
+      "美国"
+    ],
+    "aiSupport": [
+      "ChatGPT",
+      "Gemini"
+    ],
+    "streamingSupport": [
+      "Netflix",
+      "Disney+",
+      "YouTube"
+    ],
+    "supportedClients": "主流客户端配置",
+    "subscriptionSupport": "公开资料列出",
+    "sourceUrl": "https://www.ermao.net/article/xingdaomeng/",
+    "verificationStatus": "来源存在冲突",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [
+      "简介IEPL与套餐表全IPLC表述不一致，不将具体线路视为独立确认。"
+    ],
+    "missing": [
+      "AI独立验证",
+      "流媒体独立验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/article/xingdaomeng/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "lightspeed",
+    "name": "光速云",
+    "aliases": [
+      "LightSpeed"
+    ],
+    "rank": 11,
+    "officialUrl": "https://mdlky.gsyaff.com/#/?code=F7n0RNQb",
+    "reviewUrl": "/reviews/lightspeed/",
+    "summary": "17元110GB月付，99元年付59GB/月；过去优惠已过期，不计算折扣价。",
+    "plans": [
+      {
+        "name": "轻量版",
+        "price": 99,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 59,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/guangsuyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "极速版",
+        "price": 17,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 110,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/guangsuyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "流光版",
+        "price": 34,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 220,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/guangsuyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "量子版",
+        "price": 68,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 450,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/guangsuyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "无界版",
+        "price": 130,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 900,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/guangsuyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "不限时流量包",
+        "price": 680,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 1000,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/guangsuyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "专线"
+    ],
+    "protocols": [],
+    "regions": [
+      "香港",
+      "台湾",
+      "日本",
+      "新加坡",
+      "美国"
+    ],
+    "aiSupport": [
+      "ChatGPT"
+    ],
+    "streamingSupport": [
+      "Netflix",
+      "Disney+",
+      "TikTok"
+    ],
+    "supportedClients": "主流客户端配置",
+    "subscriptionSupport": "公开资料列出",
+    "sourceUrl": "https://www.ermao.net/blog/guangsuyun/",
+    "verificationStatus": "公开资料参考",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "线路检测页，无公开套餐",
+    "conflicts": [],
+    "missing": [
+      "具体协议",
+      "AI独立验证",
+      "流媒体独立验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/blog/guangsuyun/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "v2yun",
+    "name": "唯兔云",
+    "aliases": [
+      "V2云",
+      "OnlyRabbit"
+    ],
+    "rank": 12,
+    "officialUrl": "https://fast.v2yunvipaff.com/#/?code=sZt4VRYd",
+    "reviewUrl": "/reviews/v2yun/",
+    "summary": "79.9元年付45GB/月与14.9元月付100GB均有历史记录，购买前确认在售。",
+    "plans": [
+      {
+        "name": "入门年付",
+        "price": 79.9,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 45,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/weituyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "基础套餐",
+        "price": 14.9,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 100,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/weituyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "进阶套餐",
+        "price": 29.9,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 200,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/weituyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "高级套餐",
+        "price": 59.9,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/weituyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "尊享套餐",
+        "price": 119.9,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1000,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/weituyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "不限时套餐",
+        "price": 340,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 500,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/weituyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "IPLC"
+    ],
+    "protocols": [
+      "Trojan"
+    ],
+    "regions": [],
+    "aiSupport": [
+      "ChatGPT",
+      "Claude",
+      "Gemini"
+    ],
+    "streamingSupport": [
+      "Netflix",
+      "Disney+",
+      "YouTube"
+    ],
+    "supportedClients": "Trojan兼容配置",
+    "subscriptionSupport": "公开资料列出",
+    "sourceUrl": "https://www.ermao.net/article/weituyun/",
+    "verificationStatus": "公开资料参考",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [],
+    "missing": [
+      "历史套餐当前在售状态",
+      "实际订阅格式",
+      "可回溯地区清单",
+      "AI独立验证",
+      "流媒体独立验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/article/weituyun/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "u1s1",
+    "name": "U1S1",
+    "aliases": [
+      "有一说一"
+    ],
+    "rank": 13,
+    "officialUrl": "https://pkdj7.vipaff.cc/#/?code=fRPgEjR9",
+    "reviewUrl": "/reviews/u1s1/",
+    "summary": "20元120GB月付起，四档月流量与1000GB一次性包供不同频率使用。",
+    "plans": [
+      {
+        "name": "基础体验版",
+        "price": 20,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 120,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/u1s1/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "日常影音版",
+        "price": 40,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 300,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/u1s1/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "重度冲浪版",
+        "price": 100,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 700,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/u1s1/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "尊享大户版",
+        "price": 180,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/u1s1/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "一次性流量包",
+        "price": 580,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 1000,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/u1s1/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "IPLC中转"
+    ],
+    "protocols": [],
+    "regions": [],
+    "aiSupport": [
+      "ChatGPT"
+    ],
+    "streamingSupport": [
+      "Netflix",
+      "TikTok",
+      "Disney+"
+    ],
+    "supportedClients": "主流客户端配置",
+    "subscriptionSupport": "需确认格式",
+    "sourceUrl": "https://www.ermao.net/article/u1s1/",
+    "verificationStatus": "公开资料参考",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "线路检测页，无公开套餐",
+    "conflicts": [],
+    "missing": [
+      "具体协议",
+      "可回溯地区清单",
+      "AI独立验证",
+      "流媒体独立验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/article/u1s1/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "jilian",
+    "name": "极连云",
+    "aliases": [],
+    "rank": 14,
+    "officialUrl": "https://kdjhao.jlyvipaff.com/#/?code=CLXGwx9n",
+    "reviewUrl": "/reviews/jilian/",
+    "summary": "15.5元100GB月付与96元60GB/月年付并存，另有1000GB总量包。",
+    "plans": [
+      {
+        "name": "轻量体验",
+        "price": 96,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 60,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/jilianyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "基础套餐",
+        "price": 15.5,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 100,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/jilianyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "进阶套餐",
+        "price": 30.5,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 200,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/jilianyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "旗舰套餐",
+        "price": 65.5,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/jilianyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "尊享套餐",
+        "price": 120.5,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1000,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/jilianyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "不限时套餐",
+        "price": 399,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 1000,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/jilianyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "IPLC / IEPL"
+    ],
+    "protocols": [
+      "Shadowsocks"
+    ],
+    "regions": [
+      "香港",
+      "台湾",
+      "日本",
+      "新加坡",
+      "美国"
+    ],
+    "aiSupport": [
+      "ChatGPT"
+    ],
+    "streamingSupport": [
+      "Netflix",
+      "Disney+",
+      "YouTube"
+    ],
+    "supportedClients": "主流客户端配置",
+    "subscriptionSupport": "公开资料列出",
+    "sourceUrl": "https://www.ermao.net/blog/jilianyun/",
+    "verificationStatus": "公开资料参考",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [],
+    "missing": [
+      "AI独立验证",
+      "流媒体独立验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/blog/jilianyun/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "global",
+    "name": "全球云",
+    "aliases": [],
+    "rank": 15,
+    "officialUrl": "https://sswdh.gcvipaff.com/#/?code=cFVyXgfb",
+    "reviewUrl": "/reviews/global/",
+    "summary": "20元120GB月付起；99元年付59GB重置口径未说明，不能按月容量筛选。",
+    "plans": [
+      {
+        "name": "轻量版",
+        "price": 99,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 59,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/quanqiuyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "BGP智能优化·入门",
+        "price": 20,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 120,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/quanqiuyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "BGP智能优化·进阶",
+        "price": 40,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 300,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/quanqiuyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "BGP智能优化·高端",
+        "price": 100,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 700,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/quanqiuyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "BGP智能优化·商业",
+        "price": 180,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/quanqiuyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "独享私人节点",
+        "price": 680,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/quanqiuyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "不限时轻量包",
+        "price": 100,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 100,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/quanqiuyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "不限时标准包",
+        "price": 360,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 400,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/quanqiuyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "不限时大容量包",
+        "price": 700,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 800,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/quanqiuyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "IPLC / IEPL"
+    ],
+    "protocols": [
+      "VLESS"
+    ],
+    "regions": [
+      "香港",
+      "台湾",
+      "日本",
+      "新加坡",
+      "美国"
+    ],
+    "aiSupport": [
+      "ChatGPT"
+    ],
+    "streamingSupport": [
+      "Netflix",
+      "Disney+",
+      "TikTok"
+    ],
+    "supportedClients": "主流客户端配置",
+    "subscriptionSupport": "公开资料列出",
+    "sourceUrl": "https://www.ermao.net/blog/quanqiuyun/",
+    "verificationStatus": "公开资料参考",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [],
+    "missing": [
+      "AI独立验证",
+      "流媒体独立验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/blog/quanqiuyun/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "lightyear",
+    "name": "光年梯",
+    "aliases": [],
+    "rank": 16,
+    "officialUrl": "https://ggmq.gntaff.com/#/?code=ntDL4Jt7",
+    "reviewUrl": "/reviews/lightyear/",
+    "summary": "18元110GB月付起，资料明确每30天刷新，定制线路与常规档分开看。",
+    "plans": [
+      {
+        "name": "入门版",
+        "price": 18,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 110,
+        "trafficReset": "days30",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/guangnianti/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "晋级版",
+        "price": 34,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 220,
+        "trafficReset": "days30",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/guangnianti/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "专业版",
+        "price": 68,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 450,
+        "trafficReset": "days30",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/guangnianti/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "至尊版",
+        "price": 130,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 900,
+        "trafficReset": "days30",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/guangnianti/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "独享私人专线",
+        "price": 680,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 500,
+        "trafficReset": "days30",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/guangnianti/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "专线（IEPL/IPLC表述并存）"
+    ],
+    "protocols": [
+      "Trojan / Shadowsocks"
+    ],
+    "regions": [
+      "香港",
+      "台湾",
+      "日本",
+      "新加坡",
+      "美国"
+    ],
+    "aiSupport": [
+      "ChatGPT"
+    ],
+    "streamingSupport": [
+      "Netflix",
+      "Disney+",
+      "HBO"
+    ],
+    "supportedClients": "主流客户端配置",
+    "subscriptionSupport": "公开资料列出",
+    "sourceUrl": "https://www.ermao.net/blog/guangnianti/",
+    "verificationStatus": "来源存在冲突",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [
+      "IEPL与全IPLC两种线路说法并存。"
+    ],
+    "missing": [
+      "AI独立验证",
+      "流媒体独立验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/blog/guangnianti/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "sogo",
+    "name": "Sogo云",
+    "aliases": [
+      "Sogo"
+    ],
+    "rank": 17,
+    "officialUrl": "https://wzjc.sogoyunaff.cc/#/?code=EJx2Kerr",
+    "reviewUrl": "/reviews/sogo/",
+    "summary": "常规25元120GB月付，自研客户端和一次性流量包是主要选择维度。",
+    "plans": [
+      {
+        "name": "基础版",
+        "price": 25,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 120,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/sogoyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "优选版",
+        "price": 50,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 250,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/sogoyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "强化版",
+        "price": 100,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/sogoyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "顶配版",
+        "price": 200,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1000,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/sogoyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "基础一次性",
+        "price": 100,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 100,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/sogoyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "优选一次性",
+        "price": 200,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 250,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/sogoyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "强化一次性",
+        "price": 400,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 500,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/sogoyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "至尊一次性",
+        "price": 800,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 1000,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/sogoyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [],
+    "protocols": [],
+    "regions": [],
+    "aiSupport": [],
+    "streamingSupport": [],
+    "supportedClients": "自研客户端与通用订阅",
+    "subscriptionSupport": "支持",
+    "sourceUrl": "https://www.ermao.net/blog/sogoyun/",
+    "verificationStatus": "来源存在冲突",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [
+      "目录20元150GB、活动20元120GB、常规表25元120GB不同，最低月付采用常规明细25元，不套用活动。"
+    ],
+    "missing": [
+      "具体线路类型",
+      "具体协议",
+      "可回溯地区清单",
+      "AI逐节点功能验证",
+      "流媒体逐节点功能验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/blog/sogoyun/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "yuzhou",
+    "name": "宇宙云",
+    "aliases": [
+      "YuZhou"
+    ],
+    "rank": 18,
+    "officialUrl": "https://wzjc.yuzoucloud.cc/#/?code=5LyV2wPs",
+    "reviewUrl": "/reviews/yuzhou/",
+    "summary": "星云年付96元60GB/月，行星25元120GB；同名套餐容量在公开资料中有差异。",
+    "plans": [
+      {
+        "name": "星云年付小包",
+        "price": 96,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 60,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://doc.theojs.net/serve/airport/yuzhou",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "行星基础版",
+        "price": 25,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 120,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://doc.theojs.net/serve/airport/yuzhou",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "恒星标准版",
+        "price": 50,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 240,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://doc.theojs.net/serve/airport/yuzhou",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "星系专业版",
+        "price": 100,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://doc.theojs.net/serve/airport/yuzhou",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "寰宇旗舰版",
+        "price": 200,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1000,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://doc.theojs.net/serve/airport/yuzhou",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "直连 / IPLC"
+    ],
+    "protocols": [],
+    "regions": [],
+    "aiSupport": [],
+    "streamingSupport": [],
+    "supportedClients": "按面板指引",
+    "subscriptionSupport": "需确认格式",
+    "sourceUrl": "https://doc.theojs.net/serve/airport/yuzhou",
+    "verificationStatus": "来源存在冲突",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [
+      "25元档120/150/160GB、50元档240/300GB、100元档500/600/700GB、200元档1000/1200/1500GB有公开版本差异；采用用户表与Eoht对应版本作为参考。",
+      "12.5元50GB小包仅部分历史来源出现，不纳入最低价。"
+    ],
+    "missing": [
+      "具体协议",
+      "可回溯地区清单",
+      "AI逐节点功能验证",
+      "流媒体逐节点功能验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://doc.theojs.net/serve/airport/yuzhou",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "ermao",
+    "name": "二猫云",
+    "aliases": [
+      "2mao"
+    ],
+    "rank": 19,
+    "officialUrl": "https://waaa.2maoyunaff.cc/#/?code=eWzdVBUV",
+    "reviewUrl": "/reviews/ermao/",
+    "summary": "白猫20元100GB起，四档月付至800GB；目录中的16元未作为当前报价。",
+    "plans": [
+      {
+        "name": "白猫套餐",
+        "price": 20,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 100,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/ermaoyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "橘猫畅玩版",
+        "price": 40,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 200,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/ermaoyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "牛奶猫尊享版",
+        "price": 80,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 400,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/ermaoyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "黑猫无限版",
+        "price": 160,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 800,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/ermaoyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "IPLC / IEPL"
+    ],
+    "protocols": [],
+    "regions": [],
+    "aiSupport": [],
+    "streamingSupport": [],
+    "supportedClients": "自研客户端",
+    "subscriptionSupport": "需确认格式",
+    "sourceUrl": "https://www.ermao.net/blog/ermaoyun/",
+    "verificationStatus": "来源存在冲突",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [
+      "目录16元100GB与详情20元100GB不一致，采用详情常规表20元；其他来源的130/230/430/850GB属于另一个版本。"
+    ],
+    "missing": [
+      "具体协议",
+      "可回溯地区清单",
+      "AI逐节点功能验证",
+      "流媒体逐节点功能验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/blog/ermaoyun/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "onefly",
+    "name": "一翻云",
+    "aliases": [
+      "1fly"
+    ],
+    "rank": 20,
+    "officialUrl": "https://wzjc.1flyunaff.cc/#/?code=6kvuXWSh",
+    "reviewUrl": "/reviews/onefly/",
+    "summary": "VIP1至VIP4覆盖150GB至1200GB，第三方客户端接入方式要先确认。",
+    "plans": [
+      {
+        "name": "VIP1",
+        "price": 30,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 150,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP1",
+        "price": 86,
+        "currency": "CNY",
+        "cycleMonths": 3,
+        "billingCycle": "季付",
+        "trafficGB": 150,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP1",
+        "price": 162,
+        "currency": "CNY",
+        "cycleMonths": 6,
+        "billingCycle": "半年付",
+        "trafficGB": 150,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP1",
+        "price": 306,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 150,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP1",
+        "price": 576,
+        "currency": "CNY",
+        "cycleMonths": 24,
+        "billingCycle": "24个月",
+        "trafficGB": 150,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP1",
+        "price": 756,
+        "currency": "CNY",
+        "cycleMonths": 36,
+        "billingCycle": "36个月",
+        "trafficGB": 150,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP2",
+        "price": 60,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 300,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP2",
+        "price": 171,
+        "currency": "CNY",
+        "cycleMonths": 3,
+        "billingCycle": "季付",
+        "trafficGB": 300,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP2",
+        "price": 324,
+        "currency": "CNY",
+        "cycleMonths": 6,
+        "billingCycle": "半年付",
+        "trafficGB": 300,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP2",
+        "price": 612,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 300,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP2",
+        "price": 1152,
+        "currency": "CNY",
+        "cycleMonths": 24,
+        "billingCycle": "24个月",
+        "trafficGB": 300,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP2",
+        "price": 1512,
+        "currency": "CNY",
+        "cycleMonths": 36,
+        "billingCycle": "36个月",
+        "trafficGB": 300,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP3",
+        "price": 120,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 600,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP3",
+        "price": 342,
+        "currency": "CNY",
+        "cycleMonths": 3,
+        "billingCycle": "季付",
+        "trafficGB": 600,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP3",
+        "price": 648,
+        "currency": "CNY",
+        "cycleMonths": 6,
+        "billingCycle": "半年付",
+        "trafficGB": 600,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP3",
+        "price": 1224,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 600,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP3",
+        "price": 2304,
+        "currency": "CNY",
+        "cycleMonths": 24,
+        "billingCycle": "24个月",
+        "trafficGB": 600,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP3",
+        "price": 3024,
+        "currency": "CNY",
+        "cycleMonths": 36,
+        "billingCycle": "36个月",
+        "trafficGB": 600,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP4",
+        "price": 240,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1200,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP4",
+        "price": 684,
+        "currency": "CNY",
+        "cycleMonths": 3,
+        "billingCycle": "季付",
+        "trafficGB": 1200,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP4",
+        "price": 1296,
+        "currency": "CNY",
+        "cycleMonths": 6,
+        "billingCycle": "半年付",
+        "trafficGB": 1200,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP4",
+        "price": 2448,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 1200,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP4",
+        "price": 4608,
+        "currency": "CNY",
+        "cycleMonths": 24,
+        "billingCycle": "24个月",
+        "trafficGB": 1200,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "VIP4",
+        "price": 6048,
+        "currency": "CNY",
+        "cycleMonths": 36,
+        "billingCycle": "36个月",
+        "trafficGB": 1200,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [],
+    "protocols": [],
+    "regions": [
+      "香港",
+      "台湾",
+      "日本",
+      "新加坡",
+      "美国"
+    ],
+    "aiSupport": [],
+    "streamingSupport": [],
+    "supportedClients": "按设备取得配置",
+    "subscriptionSupport": "暂不支持通用订阅",
+    "sourceUrl": "https://www.ermao.net/article/yifanyun/",
+    "verificationStatus": "公开资料参考",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [],
+    "missing": [
+      "具体线路类型",
+      "具体协议",
+      "AI逐节点功能验证",
+      "流媒体逐节点功能验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/article/yifanyun/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "edgenova",
+    "name": "边缘节点",
+    "aliases": [
+      "EdgeNova"
+    ],
+    "rank": 21,
+    "officialUrl": "https://work.edgenovaaff.cc/#/?code=nkZgzbw6",
+    "reviewUrl": "/reviews/edgenova/",
+    "summary": "25元120GB月付与108元45GB年付不同口径，年付重置规则不自行推算。",
+    "plans": [
+      {
+        "name": "年付入门档",
+        "price": 108,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 45,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/bianyuanjiedian/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "标准套餐",
+        "price": 25,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 120,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/bianyuanjiedian/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "进阶套餐",
+        "price": 50,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 250,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/bianyuanjiedian/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "高级套餐",
+        "price": 100,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 500,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/bianyuanjiedian/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "极限套餐",
+        "price": 200,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1000,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/bianyuanjiedian/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "IPLC"
+    ],
+    "protocols": [],
+    "regions": [],
+    "aiSupport": [],
+    "streamingSupport": [],
+    "supportedClients": "指定客户端/配置",
+    "subscriptionSupport": "暂不支持通用订阅",
+    "sourceUrl": "https://www.ermao.net/article/bianyuanjiedian/",
+    "verificationStatus": "公开资料参考",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [],
+    "missing": [
+      "具体协议",
+      "可回溯地区清单",
+      "AI逐节点功能验证",
+      "流媒体逐节点功能验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/article/bianyuanjiedian/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "kosing",
+    "name": "可信云",
+    "aliases": [],
+    "rank": 22,
+    "officialUrl": "https://work.kosingaff.com/#/?code=Ho0l8Dcm",
+    "reviewUrl": "/reviews/kosing/",
+    "summary": "9元45GB月付起，96元年付为全年60GB，客户端方式是购买前的重要条件。",
+    "plans": [
+      {
+        "name": "轻量月付",
+        "price": 9,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 45,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/kexinyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "基础套餐",
+        "price": 25,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 150,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/kexinyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "标准套餐",
+        "price": 50,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 300,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/kexinyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "专业套餐",
+        "price": 100,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 600,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/kexinyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "旗舰套餐",
+        "price": 200,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1200,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/kexinyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "年付套餐",
+        "price": 96,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 60,
+        "trafficReset": "year",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/kexinyun/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "IPLC"
+    ],
+    "protocols": [],
+    "regions": [],
+    "aiSupport": [
+      "ChatGPT",
+      "Gemini"
+    ],
+    "streamingSupport": [
+      "Netflix",
+      "Disney+"
+    ],
+    "supportedClients": "指定客户端/配置",
+    "subscriptionSupport": "暂不支持通用订阅",
+    "sourceUrl": "https://www.ermao.net/blog/kexinyun/",
+    "verificationStatus": "公开资料参考",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [],
+    "missing": [
+      "具体协议",
+      "可回溯地区清单",
+      "AI独立验证",
+      "流媒体独立验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/blog/kexinyun/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "sujie",
+    "name": "速界",
+    "aliases": [
+      "SuJie"
+    ],
+    "rank": 23,
+    "officialUrl": "https://work.speedworldaff.cc/#/?code=sRNgp64F",
+    "reviewUrl": "/reviews/sujie/",
+    "summary": "极速25元120GB/月，四档月容量至1000GB；年付体验价与订阅支持存在版本差异。",
+    "plans": [
+      {
+        "name": "极速版",
+        "price": 25,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 120,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "极速版",
+        "price": 71.25,
+        "currency": "CNY",
+        "cycleMonths": 3,
+        "billingCycle": "季付",
+        "trafficGB": 120,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "极速版",
+        "price": 135,
+        "currency": "CNY",
+        "cycleMonths": 6,
+        "billingCycle": "半年付",
+        "trafficGB": 120,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "极速版",
+        "price": 255,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 120,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "极速版",
+        "price": 480,
+        "currency": "CNY",
+        "cycleMonths": 24,
+        "billingCycle": "24个月",
+        "trafficGB": 120,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "极速版",
+        "price": 630,
+        "currency": "CNY",
+        "cycleMonths": 36,
+        "billingCycle": "36个月",
+        "trafficGB": 120,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "超速版",
+        "price": 50,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 250,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "超速版",
+        "price": 142.5,
+        "currency": "CNY",
+        "cycleMonths": 3,
+        "billingCycle": "季付",
+        "trafficGB": 250,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "超速版",
+        "price": 270,
+        "currency": "CNY",
+        "cycleMonths": 6,
+        "billingCycle": "半年付",
+        "trafficGB": 250,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "超速版",
+        "price": 510,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 250,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "超速版",
+        "price": 960,
+        "currency": "CNY",
+        "cycleMonths": 24,
+        "billingCycle": "24个月",
+        "trafficGB": 250,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "超速版",
+        "price": 1260,
+        "currency": "CNY",
+        "cycleMonths": 36,
+        "billingCycle": "36个月",
+        "trafficGB": 250,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "光速版",
+        "price": 100,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "光速版",
+        "price": 285,
+        "currency": "CNY",
+        "cycleMonths": 3,
+        "billingCycle": "季付",
+        "trafficGB": 500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "光速版",
+        "price": 540,
+        "currency": "CNY",
+        "cycleMonths": 6,
+        "billingCycle": "半年付",
+        "trafficGB": 500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "光速版",
+        "price": 1020,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "光速版",
+        "price": 1920,
+        "currency": "CNY",
+        "cycleMonths": 24,
+        "billingCycle": "24个月",
+        "trafficGB": 500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "光速版",
+        "price": 2520,
+        "currency": "CNY",
+        "cycleMonths": 36,
+        "billingCycle": "36个月",
+        "trafficGB": 500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "跃迁版",
+        "price": 200,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1000,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "跃迁版",
+        "price": 570,
+        "currency": "CNY",
+        "cycleMonths": 3,
+        "billingCycle": "季付",
+        "trafficGB": 1000,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "跃迁版",
+        "price": 1080,
+        "currency": "CNY",
+        "cycleMonths": 6,
+        "billingCycle": "半年付",
+        "trafficGB": 1000,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "跃迁版",
+        "price": 2040,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 1000,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "跃迁版",
+        "price": 3840,
+        "currency": "CNY",
+        "cycleMonths": 24,
+        "billingCycle": "24个月",
+        "trafficGB": 1000,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "跃迁版",
+        "price": 5040,
+        "currency": "CNY",
+        "cycleMonths": 36,
+        "billingCycle": "36个月",
+        "trafficGB": 1000,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true,
+        "trafficSourceUrl": "https://cuanmu.com/blog/speedworld-vpn-review/"
+      },
+      {
+        "name": "年付体验包（价格有差异）",
+        "price": 88,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": null,
+        "trafficReset": "unspecified",
+        "note": "简介90元，明细88元；不参与最低价选择",
+        "sourceUrl": "https://www.ermao.net/article/sujie/",
+        "verificationStatus": "来源存在冲突",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": false
+      }
+    ],
+    "routes": [
+      "IEPL"
+    ],
+    "protocols": [
+      "Shadowsocks / Trojan（资料列出）"
+    ],
+    "regions": [
+      "香港",
+      "台湾",
+      "新加坡",
+      "日本",
+      "美国",
+      "马来西亚"
+    ],
+    "aiSupport": [
+      "ChatGPT"
+    ],
+    "streamingSupport": [
+      "Netflix",
+      "Disney+",
+      "YouTube"
+    ],
+    "supportedClients": "自研客户端；第三方订阅先确认",
+    "subscriptionSupport": "公开资料对通用订阅有两种表述",
+    "sourceUrl": "https://www.ermao.net/article/sujie/",
+    "verificationStatus": "来源存在冲突",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [
+      "年付体验包88/90元差异，不参与最低价。",
+      "二毛写不支持通用订阅，川沐写支持且提供四端自研软件，当前能力需服务入口确认。"
+    ],
+    "missing": [
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验",
+      "通用订阅能力的当前确认"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/article/sujie/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      },
+      {
+        "url": "https://cuanmu.com/blog/speedworld-vpn-review/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "四档月容量、地区和客户端说明；订阅能力与原来源冲突"
+      }
+    ]
+  },
+  {
+    "id": "kuaili",
+    "name": "快狸",
+    "aliases": [
+      "KuaiLi"
+    ],
+    "rank": 24,
+    "officialUrl": "https://work.kuailicloud.cc/#/?code=Tmt2KQBn",
+    "reviewUrl": "/reviews/kuaili/",
+    "summary": "明确套餐表含15元50GB月付、22元100GB月付，10元30GB宣传另作参考。",
+    "plans": [
+      {
+        "name": "森狸年付小套餐",
+        "price": 120,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 30,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/kuaili/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "月猩月付小套餐",
+        "price": 15,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 50,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/kuaili/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "小狸基础版",
+        "price": 22,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 100,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/kuaili/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "灵理标准版",
+        "price": 35,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 250,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/kuaili/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "夜理强化版",
+        "price": 95,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/kuaili/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "天狸顶配版",
+        "price": 180,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1000,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/article/kuaili/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [],
+    "protocols": [],
+    "regions": [
+      "香港",
+      "台湾",
+      "日本",
+      "新加坡",
+      "美国"
+    ],
+    "aiSupport": [],
+    "streamingSupport": [],
+    "supportedClients": "指定客户端",
+    "subscriptionSupport": "暂不支持通用订阅",
+    "sourceUrl": "https://www.ermao.net/article/kuaili/",
+    "verificationStatus": "来源存在冲突",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [
+      "简介10元30GB与具体套餐表最低月付15元50GB不一致，主比较表采用明细15元，不把10元广告当当前可买档位。"
+    ],
+    "missing": [
+      "具体线路类型",
+      "具体协议",
+      "AI逐节点功能验证",
+      "流媒体逐节点功能验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/article/kuaili/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "wuyou",
+    "name": "无忧",
+    "aliases": [
+      "无忧链接",
+      "WuYou"
+    ],
+    "rank": 25,
+    "officialUrl": "https://wep01.worryfreeaff.com/#/?code=6KQS8Ked",
+    "reviewUrl": "/reviews/wuyou/",
+    "summary": "舒心链接12.92元100GB月付，mini年付79元40GB/月，另有100GB单次包。",
+    "plans": [
+      {
+        "name": "mini链接",
+        "price": 79,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 40,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/wuyoulink/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "舒心链接",
+        "price": 12.92,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 100,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/wuyoulink/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "省心链接",
+        "price": 22.44,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 200,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/wuyoulink/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "随心链接",
+        "price": 52.36,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 500,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/wuyoulink/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "忘忧链接（早前记录）",
+        "price": 117,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1000,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/wuyoulink/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "不限时100GB流量包",
+        "price": 16.15,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 100,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/wuyoulink/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [],
+    "protocols": [],
+    "regions": [],
+    "aiSupport": [],
+    "streamingSupport": [],
+    "supportedClients": "通用订阅",
+    "subscriptionSupport": "支持",
+    "sourceUrl": "https://www.ermao.net/blog/wuyoulink/",
+    "verificationStatus": "公开资料参考",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [],
+    "missing": [
+      "具体线路类型",
+      "具体协议",
+      "可回溯地区清单",
+      "AI逐节点功能验证",
+      "流媒体逐节点功能验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/blog/wuyoulink/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "civet",
+    "name": "灵猫",
+    "aliases": [
+      "灵猫网络",
+      "Civet"
+    ],
+    "rank": 26,
+    "officialUrl": "https://vip02.civetaff.com/#/?code=oL5LiBYi",
+    "reviewUrl": "/reviews/civet/",
+    "summary": "25元150GB与45元300GB月付；年付小包85元45GB的重置范围另行确认。",
+    "plans": [
+      {
+        "name": "年付小包",
+        "price": 85,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 45,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/civetnet-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "年付Small",
+        "price": 195,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 150,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/civetnet-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "年付Big",
+        "price": 295,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 300,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/civetnet-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "季付Small",
+        "price": 65,
+        "currency": "CNY",
+        "cycleMonths": 3,
+        "billingCycle": "季付",
+        "trafficGB": 150,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/civetnet-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "季付Big",
+        "price": 125,
+        "currency": "CNY",
+        "cycleMonths": 3,
+        "billingCycle": "季付",
+        "trafficGB": 300,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/civetnet-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "月付Small",
+        "price": 25,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 150,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/civetnet-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "月付Big",
+        "price": 45,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 300,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/civetnet-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "IPLC"
+    ],
+    "protocols": [],
+    "regions": [
+      "香港",
+      "台湾",
+      "日本",
+      "新加坡",
+      "美国"
+    ],
+    "aiSupport": [
+      "ChatGPT",
+      "Gemini"
+    ],
+    "streamingSupport": [
+      "YouTube",
+      "Netflix",
+      "Disney+"
+    ],
+    "supportedClients": "通用订阅",
+    "subscriptionSupport": "支持",
+    "sourceUrl": "https://www.ermao.net/blog/civetnet-airport/",
+    "verificationStatus": "来源存在冲突",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [
+      "SS宣传与截图VLESS不同，不确认协议。",
+      "45/150/300GB的月重置或周期共享未说明，保留额度不计算每月容量。"
+    ],
+    "missing": [
+      "具体协议",
+      "AI独立验证",
+      "流媒体独立验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/blog/civetnet-airport/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "flashleap",
+    "name": "闪跃",
+    "aliases": [
+      "FlashLeap"
+    ],
+    "rank": 27,
+    "officialUrl": "https://vip02.flashleapaff.com/#/?code=mS7mSSyk",
+    "reviewUrl": "/reviews/flashleap/",
+    "summary": "Flicker至Warp覆盖150GB至1000GB月付，Leap年付422/442元不选取单一值。",
+    "plans": [
+      {
+        "name": "年付轻量版",
+        "price": 96,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 60,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://jichangtan.com/airports/flashleap/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "闪动 Flicker",
+        "price": 24,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 150,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://jichanghome.com/airport/shanyue",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "飞跃 Leap",
+        "price": 44,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 300,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://jichanghome.com/airport/shanyue",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "瞬移 Teleport",
+        "price": 84,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 600,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://jichanghome.com/airport/shanyue",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "跃迁 Warp",
+        "price": 134,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1000,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://jichanghome.com/airport/shanyue",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "Flicker",
+        "price": 64,
+        "currency": "CNY",
+        "cycleMonths": 3,
+        "billingCycle": "季付",
+        "trafficGB": 150,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://jichanghome.com/airport/shanyue",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "Flicker",
+        "price": 122,
+        "currency": "CNY",
+        "cycleMonths": 6,
+        "billingCycle": "半年付",
+        "trafficGB": 150,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://jichanghome.com/airport/shanyue",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "Flicker",
+        "price": 230,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 150,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://jichanghome.com/airport/shanyue",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "Leap",
+        "price": 118,
+        "currency": "CNY",
+        "cycleMonths": 3,
+        "billingCycle": "季付",
+        "trafficGB": 300,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://jichanghome.com/airport/shanyue",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "Leap",
+        "price": 224,
+        "currency": "CNY",
+        "cycleMonths": 6,
+        "billingCycle": "半年付",
+        "trafficGB": 300,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://jichanghome.com/airport/shanyue",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "Teleport",
+        "price": 226,
+        "currency": "CNY",
+        "cycleMonths": 3,
+        "billingCycle": "季付",
+        "trafficGB": 600,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://jichanghome.com/airport/shanyue",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "Teleport",
+        "price": 428,
+        "currency": "CNY",
+        "cycleMonths": 6,
+        "billingCycle": "半年付",
+        "trafficGB": 600,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://jichanghome.com/airport/shanyue",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "Teleport",
+        "price": 806,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 600,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://jichanghome.com/airport/shanyue",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "Warp",
+        "price": 369,
+        "currency": "CNY",
+        "cycleMonths": 3,
+        "billingCycle": "季付",
+        "trafficGB": 1000,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://jichanghome.com/airport/shanyue",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "Warp",
+        "price": 698,
+        "currency": "CNY",
+        "cycleMonths": 6,
+        "billingCycle": "半年付",
+        "trafficGB": 1000,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://jichanghome.com/airport/shanyue",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "Warp",
+        "price": 1315,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 1000,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://jichanghome.com/airport/shanyue",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "IPLC"
+    ],
+    "protocols": [
+      "VLESS"
+    ],
+    "regions": [
+      "香港",
+      "台湾",
+      "日本",
+      "新加坡",
+      "美国"
+    ],
+    "aiSupport": [
+      "ChatGPT",
+      "Claude",
+      "Gemini"
+    ],
+    "streamingSupport": [
+      "Netflix",
+      "Disney+",
+      "YouTube"
+    ],
+    "supportedClients": "按面板格式导入",
+    "subscriptionSupport": "需确认格式",
+    "sourceUrl": "https://jichanghome.com/airport/shanyue",
+    "verificationStatus": "来源存在冲突",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [
+      "Leap年付422/442元两种用户历史记录，无明确公开确认，不生成单一报价。",
+      "年付96元60GB的月/年口径在部分公开来源不同；此处采用用户参考版本，不属于官方现价。"
+    ],
+    "missing": [
+      "AI独立验证",
+      "流媒体独立验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://jichanghome.com/airport/shanyue",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "firefly",
+    "name": "飞为",
+    "aliases": [
+      "Firefly"
+    ],
+    "rank": 28,
+    "officialUrl": "https://vip02.fireflyaff.com/#/?code=ChuJcdvd",
+    "reviewUrl": "/reviews/firefly/",
+    "summary": "Lite月付25元150GB，年付96元60GB/月；标准订阅需联系客服取得。",
+    "plans": [
+      {
+        "name": "Firefly年付版",
+        "price": 96,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 60,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/firefly-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "Lite",
+        "price": 25,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 150,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/firefly-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "Plus",
+        "price": 45,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 300,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/firefly-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "Blaze",
+        "price": 85,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 600,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/firefly-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "Nova",
+        "price": 150,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 1000,
+        "trafficReset": "month",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/firefly-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "不限时",
+        "price": 100,
+        "currency": "CNY",
+        "cycleMonths": 0,
+        "billingCycle": "一次性",
+        "trafficGB": 100,
+        "trafficReset": "total",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/firefly-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "IPLC"
+    ],
+    "protocols": [
+      "VLESS"
+    ],
+    "regions": [
+      "香港",
+      "台湾",
+      "日本",
+      "新加坡",
+      "美国"
+    ],
+    "aiSupport": [
+      "ChatGPT",
+      "Gemini",
+      "Claude"
+    ],
+    "streamingSupport": [
+      "Netflix",
+      "Disney+",
+      "HBO"
+    ],
+    "supportedClients": "客服提供通用订阅",
+    "subscriptionSupport": "需联系客服",
+    "sourceUrl": "https://www.ermao.net/blog/firefly-airport/",
+    "verificationStatus": "公开资料参考",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [],
+    "missing": [
+      "AI独立验证",
+      "流媒体独立验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/blog/firefly-airport/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  },
+  {
+    "id": "kuajie",
+    "name": "跨界",
+    "aliases": [
+      "跨界云"
+    ],
+    "rank": 29,
+    "officialUrl": "https://vip02.kuajieaff.com/#/?code=tpRqrYXx",
+    "reviewUrl": "/reviews/kuajie/",
+    "summary": "Lite月付20元120GB，季付54元与年付192元保留实际付款周期。",
+    "plans": [
+      {
+        "name": "轻云Lite",
+        "price": 20,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 120,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/kuajiecloud-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "轻云Lite",
+        "price": 54,
+        "currency": "CNY",
+        "cycleMonths": 3,
+        "billingCycle": "季付",
+        "trafficGB": 120,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/kuajiecloud-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "轻云Lite",
+        "price": 192,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 120,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/kuajiecloud-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "跃云Leap",
+        "price": 40,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 300,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/kuajiecloud-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "跃云Leap",
+        "price": 108,
+        "currency": "CNY",
+        "cycleMonths": 3,
+        "billingCycle": "季付",
+        "trafficGB": 300,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/kuajiecloud-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "跃云Leap",
+        "price": 384,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 300,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/kuajiecloud-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "凌云Soar",
+        "price": 100,
+        "currency": "CNY",
+        "cycleMonths": 1,
+        "billingCycle": "月付",
+        "trafficGB": 700,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/kuajiecloud-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "凌云Soar",
+        "price": 270,
+        "currency": "CNY",
+        "cycleMonths": 3,
+        "billingCycle": "季付",
+        "trafficGB": 700,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/kuajiecloud-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      },
+      {
+        "name": "凌云Soar",
+        "price": 960,
+        "currency": "CNY",
+        "cycleMonths": 12,
+        "billingCycle": "年付",
+        "trafficGB": 700,
+        "trafficReset": "unspecified",
+        "note": "",
+        "sourceUrl": "https://www.ermao.net/blog/kuajiecloud-airport/",
+        "verificationStatus": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "priceComparisonEligible": true
+      }
+    ],
+    "routes": [
+      "专线（类型未细分）"
+    ],
+    "protocols": [],
+    "regions": [],
+    "aiSupport": [],
+    "streamingSupport": [],
+    "supportedClients": "通用订阅",
+    "subscriptionSupport": "支持",
+    "sourceUrl": "https://www.ermao.net/blog/kuajiecloud-airport/",
+    "verificationStatus": "公开资料参考",
+    "sourceObservedAt": "2026-10-13",
+    "directAccess": "读取失败，未取得公开套餐",
+    "conflicts": [],
+    "missing": [
+      "具体协议",
+      "可回溯地区清单",
+      "AI逐节点功能验证",
+      "流媒体逐节点功能验证",
+      "官方当前结算价",
+      "退款与试用细则",
+      "真实长期测速",
+      "客户端版本与格式核验"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.ermao.net/blog/kuajiecloud-airport/",
+        "level": "公开资料参考",
+        "observedAt": "2026-10-13",
+        "scope": "套餐及服务说明；非本站实测"
+      }
+    ]
+  }
+]

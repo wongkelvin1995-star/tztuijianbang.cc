@@ -1,0 +1,12 @@
+---
+import {getCollection} from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Ranking from '../../components/Ranking.astro';
+import Prices from '../../components/Prices.astro';
+import {categories} from '../../data/categories';
+import {airports} from '../../data/airports';
+export function getStaticPaths(){return categories.map(category=>({params:{category:category.slug},props:{category}}));}
+const {category}=Astro.props;
+const posts=(await getCollection('articles')).filter(a=>a.data.category===category.slug).sort((a,b)=>category.slug==='reviews'?(airports.find(x=>x.id===a.id)?.rank??99)-(airports.find(x=>x.id===b.id)?.rank??99):a.id.localeCompare(b.id));
+---
+<Base title={`${category.name}｜梯子推荐榜`} description={`${category.description}。查看${category.name}专题、比较方法和资料核验说明。`}><div class="wrap"><header class="page-heading"><span class="eyebrow">LAB / {category.slug}</span><h1>{category.name}</h1><p class="muted">{category.description}。本栏目收录 {posts.length} 篇，按实际问题与套餐条件组织。</p></header>{category.slug==='ranking'&&<Ranking/>}{category.slug==='pricing'&&<Prices/>}{category.slug==='speed-tests'&&<div class="disclosure">当前没有导入真实测速记录。下列内容解释测速方法与指标，不提供虚构曲线、成绩或测试日期。</div>}{category.slug==='reviews'&&<div class="disclosure">29家品牌套餐与使用分析。价格和线路来自公开说明，不包含虚构评分或本站测速。</div>}<section class="article-list section">{posts.map(a=><a class="article-link" href={`/${category.slug}/${a.id}/`}><span class="article-meta">{a.data.category==='reviews'?'机场测评 · 套餐与使用':'比较指南'}</span><h2>{a.data.title}</h2><p>{a.data.description}</p><span class="text-link">阅读文章 ↗</span></a>)}</section></div></Base>

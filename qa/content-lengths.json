@@ -1,0 +1,242 @@
+[
+  {
+    "file": "ai-check.md",
+    "category": "compatibility",
+    "chineseCharacters": 480
+  },
+  {
+    "file": "android-client.md",
+    "category": "tutorials",
+    "chineseCharacters": 442
+  },
+  {
+    "file": "before-purchase.md",
+    "category": "safety",
+    "chineseCharacters": 1551
+  },
+  {
+    "file": "budget-shortlist.md",
+    "category": "ranking",
+    "chineseCharacters": 528
+  },
+  {
+    "file": "budget-total.md",
+    "category": "pricing",
+    "chineseCharacters": 503
+  },
+  {
+    "file": "clash-import.md",
+    "category": "tutorials",
+    "chineseCharacters": 1518
+  },
+  {
+    "file": "compare-sheet.md",
+    "category": "ranking",
+    "chineseCharacters": 461
+  },
+  {
+    "file": "compat-log.md",
+    "category": "compatibility",
+    "chineseCharacters": 483
+  },
+  {
+    "file": "connection-check.md",
+    "category": "tutorials",
+    "chineseCharacters": 435
+  },
+  {
+    "file": "credential-leak.md",
+    "category": "safety",
+    "chineseCharacters": 428
+  },
+  {
+    "file": "dns-routing.md",
+    "category": "knowledge",
+    "chineseCharacters": 438
+  },
+  {
+    "file": "evidence-levels.md",
+    "category": "ranking",
+    "chineseCharacters": 502
+  },
+  {
+    "file": "fake-measurements.md",
+    "category": "safety",
+    "chineseCharacters": 425
+  },
+  {
+    "file": "feiv.md",
+    "category": "reviews",
+    "chineseCharacters": 696
+  },
+  {
+    "file": "important-metrics.md",
+    "category": "speed-tests",
+    "chineseCharacters": 1508
+  },
+  {
+    "file": "invisible.md",
+    "category": "reviews",
+    "chineseCharacters": 702
+  },
+  {
+    "file": "ios-shadowrocket.md",
+    "category": "tutorials",
+    "chineseCharacters": 449
+  },
+  {
+    "file": "ip-geography.md",
+    "category": "network",
+    "chineseCharacters": 510
+  },
+  {
+    "file": "laddercloud.md",
+    "category": "reviews",
+    "chineseCharacters": 702
+  },
+  {
+    "file": "latency-throughput.md",
+    "category": "speed-tests",
+    "chineseCharacters": 535
+  },
+  {
+    "file": "line-labels.md",
+    "category": "network",
+    "chineseCharacters": 1558
+  },
+  {
+    "file": "lingdong.md",
+    "category": "reviews",
+    "chineseCharacters": 702
+  },
+  {
+    "file": "loss-jitter.md",
+    "category": "speed-tests",
+    "chineseCharacters": 529
+  },
+  {
+    "file": "macos-client.md",
+    "category": "tutorials",
+    "chineseCharacters": 500
+  },
+  {
+    "file": "monthly-annual.md",
+    "category": "pricing",
+    "chineseCharacters": 500
+  },
+  {
+    "file": "muguang.md",
+    "category": "reviews",
+    "chineseCharacters": 705
+  },
+  {
+    "file": "peak-window.md",
+    "category": "speed-tests",
+    "chineseCharacters": 538
+  },
+  {
+    "file": "privacy-boundaries.md",
+    "category": "safety",
+    "chineseCharacters": 431
+  },
+  {
+    "file": "proxy-vpn.md",
+    "category": "knowledge",
+    "chineseCharacters": 433
+  },
+  {
+    "file": "read-ranking.md",
+    "category": "ranking",
+    "chineseCharacters": 1732
+  },
+  {
+    "file": "redundancy.md",
+    "category": "network",
+    "chineseCharacters": 489
+  },
+  {
+    "file": "refund-support.md",
+    "category": "safety",
+    "chineseCharacters": 420
+  },
+  {
+    "file": "region-choice.md",
+    "category": "network",
+    "chineseCharacters": 534
+  },
+  {
+    "file": "renewal-check.md",
+    "category": "pricing",
+    "chineseCharacters": 479
+  },
+  {
+    "file": "reputation.md",
+    "category": "compatibility",
+    "chineseCharacters": 508
+  },
+  {
+    "file": "reset-rules.md",
+    "category": "pricing",
+    "chineseCharacters": 505
+  },
+  {
+    "file": "scenario-matrix.md",
+    "category": "ranking",
+    "chineseCharacters": 497
+  },
+  {
+    "file": "streaming-check.md",
+    "category": "compatibility",
+    "chineseCharacters": 481
+  },
+  {
+    "file": "subscription-management.md",
+    "category": "tutorials",
+    "chineseCharacters": 433
+  },
+  {
+    "file": "subscription-node.md",
+    "category": "knowledge",
+    "chineseCharacters": 439
+  },
+  {
+    "file": "terms-glossary.md",
+    "category": "knowledge",
+    "chineseCharacters": 421
+  },
+  {
+    "file": "test-log.md",
+    "category": "speed-tests",
+    "chineseCharacters": 521
+  },
+  {
+    "file": "traffic-cost.md",
+    "category": "pricing",
+    "chineseCharacters": 1568
+  },
+  {
+    "file": "transit-path.md",
+    "category": "network",
+    "chineseCharacters": 524
+  },
+  {
+    "file": "transparent-affiliate.md",
+    "category": "ranking",
+    "chineseCharacters": 484
+  },
+  {
+    "file": "v2rayn-import.md",
+    "category": "tutorials",
+    "chineseCharacters": 510
+  },
+  {
+    "file": "wavenet.md",
+    "category": "reviews",
+    "chineseCharacters": 699
+  },
+  {
+    "file": "windows-modes.md",
+    "category": "tutorials",
+    "chineseCharacters": 479
+  }
+]

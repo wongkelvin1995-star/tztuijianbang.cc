@@ -1,0 +1,4 @@
+---
+import Base from '../layouts/Base.astro';import {faqGroups} from '../data/faq';
+---
+<Base title="100个机场与客户端常见问题｜梯子推荐榜" description="10组100个不同问题，涵盖排序、套餐、线路、测速、AI兼容、客户端和隐私风险，答案默认展开。"><article class="wrap section"><span class="eyebrow">FAQ / 100 QUESTIONS</span><h1>把问题问清楚，再作选择。</h1><p class="muted">10组 · 100题 · 所有答案默认展开。服务细节以可核验资料为准。</p><nav class="toc" aria-label="FAQ分组">{faqGroups.map(g=><a href={`#${g.id}`}>{g.title}</a>)}</nav>{faqGroups.map(g=><section class="reading section" id={g.id}><h2>{g.title}</h2>{g.items.map(f=><div class="faq-item" id={f.id}><h3><a href={`#${f.id}`}>{f.question}</a></h3><p>{f.answer}</p></div>)}</section>)}</article></Base>

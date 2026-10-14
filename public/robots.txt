@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tztuijianbang.cc/sitemap-index.xml

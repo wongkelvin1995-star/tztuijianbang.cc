@@ -1,0 +1,34 @@
+{
+  "method": "Actual in-app browser interactions and read-only DOM inspection",
+  "desktopViewport": {
+    "width": 1280,
+    "height": 900,
+    "documentWidth": 1265
+  },
+  "mobileViewport": {
+    "width": 390,
+    "height": 844,
+    "documentWidth": 375
+  },
+  "homeRows": 29,
+  "mobileNavigationOpened": true,
+  "pricingNavigationClicked": true,
+  "pricingRows": 29,
+  "mobileTableViewport": 341,
+  "mobileTableWidth": 1000,
+  "horizontalScrollObserved": true,
+  "motionToggleEnabledAndRestored": true,
+  "searchQueries": [
+    "飞猫云",
+    "84",
+    "有一说一"
+  ],
+  "searchExpectedLinksVisible": true,
+  "searchResultDetailClicked": "/reviews/feimaoyun/",
+  "studentPlanObserved": {
+    "price": 84,
+    "payment": "年付",
+    "traffic": "50GB/月"
+  },
+  "screenshots": "Desktop review table and mobile pricing screenshots displayed in this conversation; not a fabricated export."
+}

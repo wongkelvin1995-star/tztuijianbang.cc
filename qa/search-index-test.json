@@ -1,0 +1,988 @@
+[
+  {
+    "query": "梯子云",
+    "expected": "/reviews/laddercloud/",
+    "count": 20,
+    "rawPagefindCount": 20,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/laddercloud/",
+      "/reviews/",
+      "/ranking/",
+      "/reviews/dalaoyun/",
+      "/reviews/v2yun/",
+      "/reviews/lingdong/",
+      "/archives/",
+      "/",
+      "/reviews/kosing/",
+      "/reviews/global/"
+    ]
+  },
+  {
+    "query": "LadderCloud",
+    "expected": "/reviews/laddercloud/",
+    "count": 5,
+    "rawPagefindCount": 5,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/laddercloud/",
+      "/reviews/",
+      "/archives/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "WaveNet",
+    "expected": "/reviews/wavenet/",
+    "count": 5,
+    "rawPagefindCount": 5,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/wavenet/",
+      "/reviews/",
+      "/archives/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "流量",
+    "expected": "/pricing/traffic-cost/",
+    "count": 58,
+    "rawPagefindCount": 58,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/pricing/reset-rules/",
+      "/pricing/traffic-cost/",
+      "/reviews/muguang/",
+      "/pricing/",
+      "/reviews/invisible/",
+      "/faq/",
+      "/reviews/",
+      "/reviews/kuaili/",
+      "/reviews/v2yun/",
+      "/tutorials/windows-modes/"
+    ]
+  },
+  {
+    "query": "订阅",
+    "expected": "/tutorials/clash-import/",
+    "count": 58,
+    "rawPagefindCount": 58,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/knowledge/subscription-node/",
+      "/safety/credential-leak/",
+      "/tutorials/",
+      "/tutorials/v2rayn-import/",
+      "/tutorials/subscription-management/",
+      "/tutorials/clash-import/",
+      "/reviews/firefly/",
+      "/faq/",
+      "/tutorials/ios-shadowrocket/",
+      "/knowledge/"
+    ]
+  },
+  {
+    "query": "IEPL",
+    "expected": "/network/line-labels/",
+    "count": 20,
+    "rawPagefindCount": 20,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/network/",
+      "/",
+      "/network/line-labels/",
+      "/ranking/",
+      "/pricing/",
+      "/reviews/jilian/",
+      "/reviews/stardream/",
+      "/reviews/lightyear/",
+      "/reviews/global/",
+      "/faq/"
+    ]
+  },
+  {
+    "query": "Clash",
+    "expected": "/tutorials/clash-import/",
+    "count": 8,
+    "rawPagefindCount": 8,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/tutorials/clash-import/",
+      "/tutorials/",
+      "/faq/",
+      "/",
+      "/archives/",
+      "/reviews/kosing/",
+      "/reviews/global/",
+      "/reviews/wavenet/"
+    ]
+  },
+  {
+    "query": "飞猫云",
+    "expected": "/reviews/feimaoyun/",
+    "count": 6,
+    "rawPagefindCount": 5,
+    "exactBrandAdded": true,
+    "pass": true,
+    "urls": [
+      "/reviews/feimaoyun/",
+      "/reviews/",
+      "/ranking/",
+      "/archives/",
+      "/",
+      "/pricing/"
+    ]
+  },
+  {
+    "query": "有一说一",
+    "expected": "/reviews/u1s1/",
+    "count": 49,
+    "rawPagefindCount": 49,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/u1s1/",
+      "/faq/",
+      "/network/line-labels/",
+      "/archives/",
+      "/",
+      "/speed-tests/important-metrics/",
+      "/reviews/",
+      "/ranking/",
+      "/reviews/kuaili/",
+      "/ranking/read-ranking/"
+    ]
+  },
+  {
+    "query": "Breezenet",
+    "expected": "/reviews/breezenet/",
+    "count": 3,
+    "rawPagefindCount": 3,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/breezenet/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "Firefly",
+    "expected": "/reviews/firefly/",
+    "count": 6,
+    "rawPagefindCount": 6,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/firefly/",
+      "/reviews/feiv/",
+      "/reviews/",
+      "/archives/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "飞V",
+    "expected": "/reviews/feiv/",
+    "count": 11,
+    "rawPagefindCount": 11,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/feiv/",
+      "/reviews/firefly/",
+      "/reviews/feimaoyun/",
+      "/reviews/",
+      "/archives/",
+      "/ranking/",
+      "/",
+      "/pricing/",
+      "/faq/",
+      "/reviews/lingdong/"
+    ]
+  },
+  {
+    "query": "84",
+    "expected": "/reviews/feimaoyun/",
+    "count": 9,
+    "rawPagefindCount": 9,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/feimaoyun/",
+      "/reviews/laddercloud/",
+      "/ranking/",
+      "/reviews/flashleap/",
+      "/reviews/",
+      "/reviews/sujie/",
+      "/",
+      "/reviews/feiv/",
+      "/archives/"
+    ]
+  },
+  {
+    "query": "137",
+    "expected": "/reviews/breezenet/",
+    "count": 3,
+    "rawPagefindCount": 3,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/breezenet/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "学生版",
+    "expected": "/reviews/feimaoyun/",
+    "count": 5,
+    "rawPagefindCount": 5,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/feimaoyun/",
+      "/reviews/",
+      "/archives/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "zzqqxynonexistent9182",
+    "expected": null,
+    "count": 0,
+    "rawPagefindCount": 0,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": []
+  },
+  {
+    "query": "灵动云",
+    "expected": "/reviews/lingdong/",
+    "count": 7,
+    "rawPagefindCount": 7,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/lingdong/",
+      "/reviews/",
+      "/ranking/",
+      "/",
+      "/pricing/",
+      "/archives/",
+      "/faq/"
+    ]
+  },
+  {
+    "query": "暮光加速",
+    "expected": "/reviews/muguang/",
+    "count": 7,
+    "rawPagefindCount": 7,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/muguang/",
+      "/reviews/",
+      "/ranking/",
+      "/",
+      "/archives/",
+      "/pricing/",
+      "/faq/"
+    ]
+  },
+  {
+    "query": "大佬云",
+    "expected": "/reviews/dalaoyun/",
+    "count": 17,
+    "rawPagefindCount": 17,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/dalaoyun/",
+      "/reviews/laddercloud/",
+      "/reviews/ermao/",
+      "/reviews/yuzhou/",
+      "/reviews/lingdong/",
+      "/reviews/",
+      "/reviews/lightspeed/",
+      "/reviews/global/",
+      "/reviews/feimaoyun/",
+      "/ranking/"
+    ]
+  },
+  {
+    "query": "微风网络",
+    "expected": "/reviews/breezenet/",
+    "count": 6,
+    "rawPagefindCount": 6,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/breezenet/",
+      "/faq/",
+      "/pricing/",
+      "/archives/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "Breeze Network",
+    "expected": "/reviews/breezenet/",
+    "count": 3,
+    "rawPagefindCount": 3,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/breezenet/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "隐形人",
+    "expected": "/reviews/invisible/",
+    "count": 6,
+    "rawPagefindCount": 6,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/invisible/",
+      "/reviews/",
+      "/ranking/",
+      "/archives/",
+      "/",
+      "/pricing/"
+    ]
+  },
+  {
+    "query": "浪网",
+    "expected": "/reviews/wavenet/",
+    "count": 7,
+    "rawPagefindCount": 7,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/wavenet/",
+      "/reviews/",
+      "/ranking/",
+      "/reviews/lingdong/",
+      "/archives/",
+      "/",
+      "/pricing/"
+    ]
+  },
+  {
+    "query": "FlyV",
+    "expected": "/reviews/feiv/",
+    "count": 3,
+    "rawPagefindCount": 3,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/feiv/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "星岛梦",
+    "expected": "/reviews/stardream/",
+    "count": 6,
+    "rawPagefindCount": 6,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/stardream/",
+      "/reviews/",
+      "/ranking/",
+      "/archives/",
+      "/",
+      "/pricing/"
+    ]
+  },
+  {
+    "query": "StarDream",
+    "expected": "/reviews/stardream/",
+    "count": 5,
+    "rawPagefindCount": 5,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/stardream/",
+      "/reviews/",
+      "/archives/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "光速云",
+    "expected": "/reviews/lightspeed/",
+    "count": 6,
+    "rawPagefindCount": 6,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/lightspeed/",
+      "/reviews/",
+      "/ranking/",
+      "/archives/",
+      "/",
+      "/pricing/"
+    ]
+  },
+  {
+    "query": "LightSpeed",
+    "expected": "/reviews/lightspeed/",
+    "count": 5,
+    "rawPagefindCount": 5,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/lightspeed/",
+      "/reviews/",
+      "/archives/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "唯兔云",
+    "expected": "/reviews/v2yun/",
+    "count": 6,
+    "rawPagefindCount": 6,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/v2yun/",
+      "/reviews/",
+      "/ranking/",
+      "/archives/",
+      "/",
+      "/pricing/"
+    ]
+  },
+  {
+    "query": "V2云",
+    "expected": "/reviews/v2yun/",
+    "count": 7,
+    "rawPagefindCount": 7,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/v2yun/",
+      "/archives/",
+      "/reviews/",
+      "/ranking/",
+      "/reviews/global/",
+      "/",
+      "/faq/"
+    ]
+  },
+  {
+    "query": "OnlyRabbit",
+    "expected": "/reviews/v2yun/",
+    "count": 3,
+    "rawPagefindCount": 3,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/v2yun/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "U1S1",
+    "expected": "/reviews/u1s1/",
+    "count": 6,
+    "rawPagefindCount": 6,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/u1s1/",
+      "/reviews/",
+      "/ranking/",
+      "/archives/",
+      "/",
+      "/pricing/"
+    ]
+  },
+  {
+    "query": "极连云",
+    "expected": "/reviews/jilian/",
+    "count": 6,
+    "rawPagefindCount": 6,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/jilian/",
+      "/ranking/",
+      "/reviews/",
+      "/",
+      "/pricing/",
+      "/archives/"
+    ]
+  },
+  {
+    "query": "全球云",
+    "expected": "/reviews/global/",
+    "count": 7,
+    "rawPagefindCount": 7,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/global/",
+      "/reviews/laddercloud/",
+      "/reviews/",
+      "/ranking/",
+      "/archives/",
+      "/",
+      "/pricing/"
+    ]
+  },
+  {
+    "query": "光年梯",
+    "expected": "/reviews/lightyear/",
+    "count": 10,
+    "rawPagefindCount": 9,
+    "exactBrandAdded": true,
+    "pass": true,
+    "urls": [
+      "/reviews/lightyear/",
+      "/reviews/lightspeed/",
+      "/reviews/",
+      "/ranking/",
+      "/archives/",
+      "/",
+      "/pricing/",
+      "/reviews/muguang/",
+      "/reviews/sujie/",
+      "/faq/"
+    ]
+  },
+  {
+    "query": "Sogo云",
+    "expected": "/reviews/sogo/",
+    "count": 6,
+    "rawPagefindCount": 6,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/sogo/",
+      "/reviews/",
+      "/ranking/",
+      "/",
+      "/archives/",
+      "/pricing/"
+    ]
+  },
+  {
+    "query": "Sogo",
+    "expected": "/reviews/sogo/",
+    "count": 6,
+    "rawPagefindCount": 6,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/sogo/",
+      "/reviews/",
+      "/ranking/",
+      "/",
+      "/archives/",
+      "/pricing/"
+    ]
+  },
+  {
+    "query": "宇宙云",
+    "expected": "/reviews/yuzhou/",
+    "count": 7,
+    "rawPagefindCount": 7,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/yuzhou/",
+      "/reviews/",
+      "/reviews/feimaoyun/",
+      "/ranking/",
+      "/archives/",
+      "/",
+      "/pricing/"
+    ]
+  },
+  {
+    "query": "YuZhou",
+    "expected": "/reviews/yuzhou/",
+    "count": 5,
+    "rawPagefindCount": 5,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/yuzhou/",
+      "/reviews/",
+      "/archives/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "二猫云",
+    "expected": "/reviews/ermao/",
+    "count": 6,
+    "rawPagefindCount": 6,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/ermao/",
+      "/reviews/",
+      "/ranking/",
+      "/archives/",
+      "/",
+      "/pricing/"
+    ]
+  },
+  {
+    "query": "2mao",
+    "expected": "/reviews/ermao/",
+    "count": 3,
+    "rawPagefindCount": 3,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/ermao/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "一翻云",
+    "expected": "/reviews/onefly/",
+    "count": 1,
+    "rawPagefindCount": 1,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/onefly/"
+    ]
+  },
+  {
+    "query": "1fly",
+    "expected": "/reviews/onefly/",
+    "count": 3,
+    "rawPagefindCount": 3,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/onefly/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "边缘节点",
+    "expected": "/reviews/edgenova/",
+    "count": 6,
+    "rawPagefindCount": 6,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/edgenova/",
+      "/reviews/",
+      "/ranking/",
+      "/archives/",
+      "/",
+      "/pricing/"
+    ]
+  },
+  {
+    "query": "EdgeNova",
+    "expected": "/reviews/edgenova/",
+    "count": 5,
+    "rawPagefindCount": 5,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/edgenova/",
+      "/reviews/",
+      "/archives/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "可信云",
+    "expected": "/reviews/kosing/",
+    "count": 8,
+    "rawPagefindCount": 8,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/kosing/",
+      "/reviews/",
+      "/ranking/",
+      "/archives/",
+      "/",
+      "/pricing/",
+      "/reviews/kuajie/",
+      "/faq/"
+    ]
+  },
+  {
+    "query": "速界",
+    "expected": "/reviews/sujie/",
+    "count": 7,
+    "rawPagefindCount": 7,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/sujie/",
+      "/reviews/",
+      "/ranking/",
+      "/archives/",
+      "/reviews/kuajie/",
+      "/",
+      "/pricing/"
+    ]
+  },
+  {
+    "query": "SuJie",
+    "expected": "/reviews/sujie/",
+    "count": 5,
+    "rawPagefindCount": 5,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/sujie/",
+      "/reviews/",
+      "/archives/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "快狸",
+    "expected": "/reviews/kuaili/",
+    "count": 6,
+    "rawPagefindCount": 6,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/kuaili/",
+      "/reviews/",
+      "/ranking/",
+      "/",
+      "/archives/",
+      "/pricing/"
+    ]
+  },
+  {
+    "query": "KuaiLi",
+    "expected": "/reviews/kuaili/",
+    "count": 5,
+    "rawPagefindCount": 5,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/kuaili/",
+      "/reviews/",
+      "/archives/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "无忧",
+    "expected": "/reviews/wuyou/",
+    "count": 55,
+    "rawPagefindCount": 55,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/wuyou/",
+      "/faq/",
+      "/pricing/traffic-cost/",
+      "/knowledge/terms-glossary/",
+      "/pricing/monthly-annual/",
+      "/reviews/lightspeed/",
+      "/safety/privacy-boundaries/",
+      "/tutorials/windows-modes/",
+      "/ranking/evidence-levels/",
+      "/knowledge/dns-routing/"
+    ]
+  },
+  {
+    "query": "无忧链接",
+    "expected": "/reviews/wuyou/",
+    "count": 37,
+    "rawPagefindCount": 37,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/wuyou/",
+      "/faq/",
+      "/reviews/ermao/",
+      "/reviews/sogo/",
+      "/reviews/firefly/",
+      "/reviews/onefly/",
+      "/reviews/feiv/",
+      "/tutorials/clash-import/",
+      "/reviews/edgenova/",
+      "/reviews/lightspeed/"
+    ]
+  },
+  {
+    "query": "WuYou",
+    "expected": "/reviews/wuyou/",
+    "count": 3,
+    "rawPagefindCount": 3,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/wuyou/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "灵猫",
+    "expected": "/reviews/civet/",
+    "count": 6,
+    "rawPagefindCount": 5,
+    "exactBrandAdded": true,
+    "pass": true,
+    "urls": [
+      "/reviews/civet/",
+      "/reviews/",
+      "/ranking/",
+      "/",
+      "/archives/",
+      "/pricing/"
+    ]
+  },
+  {
+    "query": "灵猫网络",
+    "expected": "/reviews/civet/",
+    "count": 6,
+    "rawPagefindCount": 5,
+    "exactBrandAdded": true,
+    "pass": true,
+    "urls": [
+      "/reviews/civet/",
+      "/reviews/",
+      "/ranking/",
+      "/",
+      "/archives/",
+      "/pricing/"
+    ]
+  },
+  {
+    "query": "Civet",
+    "expected": "/reviews/civet/",
+    "count": 3,
+    "rawPagefindCount": 3,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/civet/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "闪跃",
+    "expected": "/reviews/flashleap/",
+    "count": 6,
+    "rawPagefindCount": 6,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/flashleap/",
+      "/reviews/",
+      "/ranking/",
+      "/",
+      "/archives/",
+      "/pricing/"
+    ]
+  },
+  {
+    "query": "FlashLeap",
+    "expected": "/reviews/flashleap/",
+    "count": 5,
+    "rawPagefindCount": 5,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/flashleap/",
+      "/reviews/",
+      "/archives/",
+      "/ranking/",
+      "/"
+    ]
+  },
+  {
+    "query": "飞为",
+    "expected": "/reviews/firefly/",
+    "count": 11,
+    "rawPagefindCount": 11,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/firefly/",
+      "/reviews/feiv/",
+      "/reviews/feimaoyun/",
+      "/reviews/",
+      "/ranking/",
+      "/archives/",
+      "/",
+      "/pricing/",
+      "/reviews/lingdong/",
+      "/reviews/flashleap/"
+    ]
+  },
+  {
+    "query": "跨界",
+    "expected": "/reviews/kuajie/",
+    "count": 7,
+    "rawPagefindCount": 7,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/kuajie/",
+      "/reviews/",
+      "/ranking/",
+      "/archives/",
+      "/",
+      "/pricing/",
+      "/pricing/reset-rules/"
+    ]
+  },
+  {
+    "query": "跨界云",
+    "expected": "/reviews/kuajie/",
+    "count": 6,
+    "rawPagefindCount": 6,
+    "exactBrandAdded": false,
+    "pass": true,
+    "urls": [
+      "/reviews/kuajie/",
+      "/reviews/",
+      "/ranking/",
+      "/archives/",
+      "/",
+      "/pricing/"
+    ]
+  }
+]

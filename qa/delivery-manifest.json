@@ -1,0 +1,14 @@
+[
+  {
+    "file": "tztuijianbang-source.zip",
+    "bytes": 213732,
+    "sha256": "d1e90c85e1c00a08c1167e6497b6ad81ac0c1ee66f33f70556df74330a345931",
+    "files": 92
+  },
+  {
+    "file": "tztuijianbang-dist.zip",
+    "bytes": 736760,
+    "sha256": "15a1710c6800aa325028da8a44d5c3e51f6eebbc96651930e0d82edd81ff36a8",
+    "files": 150
+  }
+]

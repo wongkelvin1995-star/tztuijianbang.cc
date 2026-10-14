@@ -1,0 +1,14 @@
+[
+  {
+    "file": "tztuijianbang-29-airports-source.zip",
+    "bytes": 306261,
+    "sha256": "807a2731f7635c5e7c34825518870478937f73919bbc6685f8a4fefa3862bd5b",
+    "files": 131
+  },
+  {
+    "file": "tztuijianbang-29-airports-dist.zip",
+    "bytes": 1095156,
+    "sha256": "eaac4cefdbf1303854f308cb8e1dda1eb45e0baf01770bc434228d70dd92b399",
+    "files": 201
+  }
+]

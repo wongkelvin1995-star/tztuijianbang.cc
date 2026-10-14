@@ -1,0 +1,14 @@
+{
+  "method": "Static source and generated HTML checks; not browser or viewport tests",
+  "checks": {
+    "uniqueSeoTitles": true,
+    "uniqueDescriptions": true,
+    "reducedMotionMediaQuery": true,
+    "motionTogglePersistence": true,
+    "mobileMenuBreakpoint": true,
+    "scrollableMobileTable": true,
+    "mobileGridFallback": true,
+    "validJsonLdAndUniqueIds": true
+  },
+  "errors": []
+}

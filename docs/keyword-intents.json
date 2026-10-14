@@ -1,0 +1,470 @@
+[
+  {
+    "url": "/ranking/read-ranking/",
+    "cluster": "ranking",
+    "primaryIntent": "梯子推荐榜怎么看",
+    "title": "梯子推荐榜怎么看：先分清编辑位置与性能证据",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/ranking/budget-shortlist/",
+    "cluster": "ranking",
+    "primaryIntent": "不同预算的机场套餐选择",
+    "title": "预算有限时怎样筛选机场：先限定总支出",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/ranking/evidence-levels/",
+    "cluster": "ranking",
+    "primaryIntent": "机场推荐证据等级",
+    "title": "机场资料来源怎样分级：官方说明也有边界",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/ranking/scenario-matrix/",
+    "cluster": "ranking",
+    "primaryIntent": "场景匹配机场选择",
+    "title": "按使用场景读机场榜单：阅读、传输与在线会议",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/ranking/transparent-affiliate/",
+    "cluster": "ranking",
+    "primaryIntent": "机场排行榜合作披露",
+    "title": "商业合作榜单怎样披露：区分推广入口与编辑结论",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/ranking/compare-sheet/",
+    "cluster": "ranking",
+    "primaryIntent": "机场横向比较条件",
+    "title": "机场横向比较表怎么做：未知字段不要填默认分",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/pricing/monthly-annual/",
+    "cluster": "pricing",
+    "primaryIntent": "月付与年付套餐差异",
+    "title": "月付与年付怎么选：折扣、周期和预付风险",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/pricing/traffic-cost/",
+    "cluster": "pricing",
+    "primaryIntent": "机场价格和流量怎么比较",
+    "title": "机场价格和流量怎么比较：有效额度比标称额度更重要",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/pricing/reset-rules/",
+    "cluster": "pricing",
+    "primaryIntent": "机场流量重置时间",
+    "title": "流量重置规则怎么看：自然月、购买日与结转",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/pricing/budget-total/",
+    "cluster": "pricing",
+    "primaryIntent": "便宜机场总成本比较",
+    "title": "低价套餐的总成本：限速、设备和额外付款",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/pricing/renewal-check/",
+    "cluster": "pricing",
+    "primaryIntent": "机场续费优惠核验",
+    "title": "续费与优惠码怎样核验：别把首次折扣当长期价格",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/speed-tests/important-metrics/",
+    "cluster": "speed-tests",
+    "primaryIntent": "机场测速哪个指标重要",
+    "title": "机场测速哪个指标重要：用途决定测量重点",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/speed-tests/latency-throughput/",
+    "cluster": "speed-tests",
+    "primaryIntent": "节点延迟与吞吐区别",
+    "title": "延迟和下载速度为何不一致：等得少不等于传得多",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/speed-tests/loss-jitter/",
+    "cluster": "speed-tests",
+    "primaryIntent": "节点丢包率与抖动解读",
+    "title": "丢包与抖动怎么看：别被中间一跳吓到",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/speed-tests/test-log/",
+    "cluster": "speed-tests",
+    "primaryIntent": "机场测速记录模板",
+    "title": "节点测速记录怎么留：让别人能理解你的条件",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/speed-tests/peak-window/",
+    "cluster": "speed-tests",
+    "primaryIntent": "机场晚高峰测速方法",
+    "title": "晚高峰稳定性怎样比较：时间窗口比峰值更有用",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/network/line-labels/",
+    "cluster": "network",
+    "primaryIntent": "IPLC IEPL 中转线路比较",
+    "title": "IPLC、IEPL与中转怎么比较：先核验标签覆盖哪一段",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/network/region-choice/",
+    "cluster": "network",
+    "primaryIntent": "机场节点地区怎么选",
+    "title": "香港、日本、新加坡、美国节点怎么选",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/network/transit-path/",
+    "cluster": "network",
+    "primaryIntent": "机场中转节点路径分析",
+    "title": "中转线路怎样理解：多一跳可能改善也可能限制",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/network/ip-geography/",
+    "cluster": "network",
+    "primaryIntent": "机场出口 IP 地区核验",
+    "title": "节点出口IP怎样核验：地理标签和平台识别可能不同",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/network/redundancy/",
+    "cluster": "network",
+    "primaryIntent": "机场备用节点冗余选择",
+    "title": "备用节点怎么规划：别把重复名称当线路冗余",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/compatibility/ai-check/",
+    "cluster": "compatibility",
+    "primaryIntent": "AI节点兼容条件",
+    "title": "ChatGPT与Claude节点兼容怎样记录：按功能核验",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/compatibility/streaming-check/",
+    "cluster": "compatibility",
+    "primaryIntent": "Netflix流媒体兼容核验",
+    "title": "流媒体兼容怎么判断：首页访问与内容播放分开",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/compatibility/reputation/",
+    "cluster": "compatibility",
+    "primaryIntent": "共享IP平台风控影响",
+    "title": "共享出口和IP信誉：为什么同地区兼容也不同",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/compatibility/compat-log/",
+    "cluster": "compatibility",
+    "primaryIntent": "AI流媒体兼容记录规范",
+    "title": "AI与流媒体兼容记录表：平台、功能、日期缺一不可",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/tutorials/clash-import/",
+    "cluster": "tutorials",
+    "primaryIntent": "Clash客户端如何导入订阅",
+    "title": "Clash Verge Rev如何导入订阅：从格式到连接验证",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/tutorials/v2rayn-import/",
+    "cluster": "tutorials",
+    "primaryIntent": "v2rayN客户端订阅导入",
+    "title": "v2rayN订阅导入与更新：格式、分组和日志",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/tutorials/windows-modes/",
+    "cluster": "tutorials",
+    "primaryIntent": "Windows代理客户端模式选择",
+    "title": "Windows系统代理与TUN怎么选：先确认流量覆盖",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/tutorials/macos-client/",
+    "cluster": "tutorials",
+    "primaryIntent": "macOS客户端使用检查",
+    "title": "macOS代理客户端怎么配置：架构、权限与恢复",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/tutorials/android-client/",
+    "cluster": "tutorials",
+    "primaryIntent": "Android客户端连接教程",
+    "title": "Android代理客户端怎么用：VPN权限与后台连接",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/tutorials/ios-shadowrocket/",
+    "cluster": "tutorials",
+    "primaryIntent": "iOS Shadowrocket订阅使用",
+    "title": "iOS与Shadowrocket配置检查：购买应用后还需要订阅",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/tutorials/subscription-management/",
+    "cluster": "tutorials",
+    "primaryIntent": "多设备机场订阅管理",
+    "title": "多设备订阅怎么管理：更新、备份与令牌保护",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/tutorials/connection-check/",
+    "cluster": "tutorials",
+    "primaryIntent": "机场订阅连接故障排查",
+    "title": "连接失败怎么排查：从本地网络到目标应用",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/safety/before-purchase/",
+    "cluster": "safety",
+    "primaryIntent": "机场购买前风险检查",
+    "title": "机场购买前检查什么：身份、条款和证据缺口",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/safety/privacy-boundaries/",
+    "cluster": "safety",
+    "primaryIntent": "机场隐私风险边界",
+    "title": "代理隐私能保护到哪里：账号、HTTPS与终端边界",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/safety/refund-support/",
+    "cluster": "safety",
+    "primaryIntent": "机场退款售后条件检查",
+    "title": "退款与售后怎么检查：规则要在付款前保存",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/safety/fake-measurements/",
+    "cluster": "safety",
+    "primaryIntent": "机场虚假测评识别",
+    "title": "虚假测速与评分怎么识别：缺失条件比数字更关键",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/safety/credential-leak/",
+    "cluster": "safety",
+    "primaryIntent": "机场订阅泄露处理",
+    "title": "订阅泄露后怎么办：撤销令牌并更新所有设备",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/knowledge/proxy-vpn/",
+    "cluster": "knowledge",
+    "primaryIntent": "代理VPN机场概念区别",
+    "title": "代理、VPN和机场有什么区别：从服务到客户端",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/knowledge/subscription-node/",
+    "cluster": "knowledge",
+    "primaryIntent": "机场订阅节点代理组关系",
+    "title": "订阅、节点与代理组怎么区分：配置不是服务成绩",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/knowledge/dns-routing/",
+    "cluster": "knowledge",
+    "primaryIntent": "DNS代理分流基础知识",
+    "title": "DNS与代理规则有什么关系：先定位解析还是连接",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/knowledge/terms-glossary/",
+    "cluster": "knowledge",
+    "primaryIntent": "魔法机场宣传词解释",
+    "title": "魔法上网常见宣传词怎么读：用字段替代口号",
+    "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
+  },
+  {
+    "url": "/reviews/lingdong/",
+    "cluster": "reviews",
+    "primaryIntent": "灵动云套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/muguang/",
+    "cluster": "reviews",
+    "primaryIntent": "暮光加速套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/feimaoyun/",
+    "cluster": "reviews",
+    "primaryIntent": "飞猫云套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/dalaoyun/",
+    "cluster": "reviews",
+    "primaryIntent": "大佬云套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/breezenet/",
+    "cluster": "reviews",
+    "primaryIntent": "微风网络套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/laddercloud/",
+    "cluster": "reviews",
+    "primaryIntent": "梯子云套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/invisible/",
+    "cluster": "reviews",
+    "primaryIntent": "隐形人套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/wavenet/",
+    "cluster": "reviews",
+    "primaryIntent": "浪网套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/feiv/",
+    "cluster": "reviews",
+    "primaryIntent": "飞V套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/stardream/",
+    "cluster": "reviews",
+    "primaryIntent": "星岛梦套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/lightspeed/",
+    "cluster": "reviews",
+    "primaryIntent": "光速云套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/v2yun/",
+    "cluster": "reviews",
+    "primaryIntent": "唯兔云套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/u1s1/",
+    "cluster": "reviews",
+    "primaryIntent": "U1S1套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/jilian/",
+    "cluster": "reviews",
+    "primaryIntent": "极连云套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/global/",
+    "cluster": "reviews",
+    "primaryIntent": "全球云套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/lightyear/",
+    "cluster": "reviews",
+    "primaryIntent": "光年梯套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/sogo/",
+    "cluster": "reviews",
+    "primaryIntent": "Sogo云套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/yuzhou/",
+    "cluster": "reviews",
+    "primaryIntent": "宇宙云套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/ermao/",
+    "cluster": "reviews",
+    "primaryIntent": "二猫云套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/onefly/",
+    "cluster": "reviews",
+    "primaryIntent": "一翻云套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/edgenova/",
+    "cluster": "reviews",
+    "primaryIntent": "边缘节点套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/kosing/",
+    "cluster": "reviews",
+    "primaryIntent": "可信云套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/sujie/",
+    "cluster": "reviews",
+    "primaryIntent": "速界套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/kuaili/",
+    "cluster": "reviews",
+    "primaryIntent": "快狸套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/wuyou/",
+    "cluster": "reviews",
+    "primaryIntent": "无忧套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/civet/",
+    "cluster": "reviews",
+    "primaryIntent": "灵猫套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/flashleap/",
+    "cluster": "reviews",
+    "primaryIntent": "闪跃套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/firefly/",
+    "cluster": "reviews",
+    "primaryIntent": "飞为套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  },
+  {
+    "url": "/reviews/kuajie/",
+    "cluster": "reviews",
+    "primaryIntent": "跨界套餐与使用",
+    "evidence": "公开参考；无搜索量数据库证据"
+  }
+]

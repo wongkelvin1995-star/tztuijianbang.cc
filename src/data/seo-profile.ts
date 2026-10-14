@@ -1,0 +1,1 @@
+export const seo = {name:'梯子推荐榜',brand:'Airport Ranking Lab',site:'https://tztuijianbang.cc',title:'梯子推荐榜 - 2026梯子推荐、机场排行榜与套餐价格比较',description:'梯子推荐榜整理机场服务的套餐价格、流量、节点地区、线路类型和相关使用资料，提供梯子推荐、机场测评、测速解读及客户端教程，帮助读者根据自身需求进行比较。',slogan:'用清晰的数据和标准，读懂每一种选择。'};

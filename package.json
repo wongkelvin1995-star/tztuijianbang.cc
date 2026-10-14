@@ -1,0 +1,28 @@
+{
+  "name": "tizi-ranking-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev --host 127.0.0.1",
+    "build": "astro build && pagefind --site dist",
+    "preview": "astro preview --host 127.0.0.1",
+    "check": "astro check",
+    "audit:site": "node scripts/audit.mjs",
+    "test:search": "node scripts/search-index-test.mjs",
+    "test:airports": "node scripts/airport-data-test.mjs"
+  },
+  "dependencies": {
+    "astro": "7.3.8",
+    "@astrojs/rss": "4.0.19",
+    "@astrojs/sitemap": "3.7.4"
+  },
+  "devDependencies": {
+    "pagefind": "1.5.2",
+    "typescript": "6.0.3",
+    "@astrojs/check": "0.9.10"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}
