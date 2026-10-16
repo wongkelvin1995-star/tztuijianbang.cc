@@ -20,5 +20,5 @@ for(const m of text.matchAll(/<a\b[^>]*target="_blank"[^>]*>/g))if(!/rel="[^"]*n
 }
 const faq=await readFile(path.join(root,'faq/index.html'),'utf8');const faqCount=(faq.match(/class="faq-item"/g)||[]).length;if(faqCount!==100)errors.push(`FAQ count ${faqCount}`);
 const articleCount=(await readdir('src/content/articles')).filter(x=>x.endsWith('.md')).length;if(articleCount!==71)errors.push(`Article count ${articleCount}`);
-for(const asset of ['robots.txt','sitemap.xml','sitemap-index.xml','rss.xml','404.html','pagefind/pagefind.js'])if(!map.has('/'+asset))errors.push(`Missing ${asset}`);
+for(const asset of ['robots.txt','sitemap.xml','sitemap-index.xml','rss.xml','404.html','brand-search.json','article-search.json','pagefind/pagefind.js'])if(!map.has('/'+asset))errors.push(`Missing ${asset}`);
 const report={htmlPages:html.length,articleCount,faqCount,internalLinksChecked:links,anchorsChecked:anchors,externalSources:[...external],errors};await mkdir('qa',{recursive:true});await writeFile('qa/static-audit.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report,null,2));if(errors.length)process.exitCode=1;

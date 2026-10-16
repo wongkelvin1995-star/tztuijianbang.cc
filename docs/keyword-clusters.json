@@ -1,0 +1,54 @@
+{
+  "note": "关键词用于内容规划，不代表搜索量、排名或流量承诺。页面正文应回答对应问题；不把词语堆成隐藏标签或meta keywords。",
+  "clusters": [
+    {
+      "topic": "机场推荐与排行榜",
+      "primary": ["机场推荐", "机场排行榜", "机场排名", "梯子推荐"],
+      "supporting": ["梯子推荐榜怎么看", "机场推荐依据", "机场横向对比", "机场测评标准", "不同预算怎么选机场"],
+      "pages": ["/", "/ranking/", "/ranking/read-ranking/", "/ranking/compare-sheet/", "/ranking/evidence-levels/"],
+      "editorialBoundary": "解释编辑排序与证据来源；不将排行榜位置写成实测结论。"
+    },
+    {
+      "topic": "套餐价格与流量",
+      "primary": ["机场套餐价格", "机场价格对比", "便宜机场怎么选", "机场流量套餐"],
+      "supporting": ["机场每GB多少钱", "机场月付和年付区别", "机场流量多久重置", "机场套餐实际成本", "机场优惠码怎么核验"],
+      "pages": ["/pricing/", "/pricing/traffic-cost/", "/pricing/monthly-annual/", "/pricing/reset-rules/", "/pricing/budget-total/", "/ranking/budget-shortlist/"],
+      "editorialBoundary": "保留实际付款周期、有效额度及未核实字段；不把历史参考价描述为实时官网价。"
+    },
+    {
+      "topic": "机场测速与稳定性",
+      "primary": ["机场测速", "节点测速", "机场晚高峰测速", "节点延迟"],
+      "supporting": ["机场测速怎么看", "延迟和下载速度区别", "节点丢包率怎么看", "网络抖动是什么", "晚高峰稳定性怎么比较"],
+      "pages": ["/speed-tests/", "/speed-tests/important-metrics/", "/speed-tests/latency-throughput/", "/speed-tests/loss-jitter/", "/speed-tests/peak-window/", "/speed-tests/test-log/"],
+      "editorialBoundary": "现有页面讲指标和测试方法；没有真实原始记录时，不发布品牌速度或稳定性成绩。"
+    },
+    {
+      "topic": "线路与节点地区",
+      "primary": ["机场节点", "机场线路", "IPLC和IEPL区别", "机场中转线路"],
+      "supporting": ["IPLC IEPL怎么比较", "香港日本新加坡节点怎么选", "机场出口IP地区核验", "中转线路是什么意思", "备用节点怎么选"],
+      "pages": ["/network/", "/network/line-labels/", "/network/region-choice/", "/network/transit-path/", "/network/ip-geography/", "/network/redundancy/"],
+      "editorialBoundary": "区分服务方线路说明、可回溯来源与独立测试；不凭节点名称推断线路性能。"
+    },
+    {
+      "topic": "客户端与订阅教程",
+      "primary": ["Clash订阅导入", "v2rayN订阅", "Shadowrocket配置", "机场连接失败"],
+      "supporting": ["Clash Verge Rev订阅怎么导入", "v2rayN订阅怎么更新", "Windows系统代理和TUN区别", "iPhone Shadowrocket怎么添加节点", "订阅更新失败怎么排查"],
+      "pages": ["/tutorials/", "/tutorials/clash-import/", "/tutorials/v2rayn-import/", "/tutorials/windows-modes/", "/tutorials/ios-shadowrocket/", "/tutorials/connection-check/"],
+      "editorialBoundary": "标注软件版本变化，订阅令牌按凭据保护；操作步骤以项目官方说明为准。"
+    },
+    {
+      "topic": "AI、流媒体与兼容性",
+      "primary": ["ChatGPT节点", "Claude节点", "Netflix节点兼容"],
+      "supporting": ["ChatGPT能打开但不能登录怎么办", "流媒体首页能开但不能播放", "共享IP为什么兼容不同", "AI节点兼容怎么记录"],
+      "pages": ["/compatibility/", "/compatibility/ai-check/", "/compatibility/streaming-check/", "/compatibility/reputation/", "/compatibility/compat-log/"],
+      "editorialBoundary": "区分访问、登录、功能和播放状态；一次观察不等于长期解锁保证。"
+    },
+    {
+      "topic": "购买风险与基本概念",
+      "primary": ["机场购买避坑", "机场退款规则", "机场订阅泄露", "梯子和VPN区别"],
+      "supporting": ["机场退款条件怎么查", "机场优惠续费价格怎么核实", "机场订阅链接泄露怎么办", "代理机场和VPN有什么区别", "机场测速虚假宣传怎么辨别"],
+      "pages": ["/safety/", "/safety/before-purchase/", "/safety/refund-support/", "/safety/credential-leak/", "/safety/fake-measurements/", "/knowledge/proxy-vpn/"],
+      "editorialBoundary": "提供核验问题与概念说明，不根据单一迹象断言某品牌风险或安全性。"
+    }
+  ]
+}

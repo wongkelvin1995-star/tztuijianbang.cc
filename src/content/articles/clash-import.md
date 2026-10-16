@@ -1,9 +1,9 @@
 ---
-title: "Clash Verge Rev如何导入订阅：从格式到连接验证"
-description: "从Clash Verge Rev官方仓库的Releases选择稳定发行包，按系统和处理器架构选择。围绕Clash客户端如何导入订阅整理检查条件、资料边界与可执行步骤。"
+title: "Clash Verge Rev订阅怎么导入：配置更新与连接排查"
+description: "说明Clash Verge Rev订阅导入、配置更新、节点选择和连接验证步骤，并提醒核对客户端版本、订阅格式与令牌安全。具体界面以项目当前版本为准。"
 category: "tutorials"
 date: "2026-10-12"
-intent: "Clash客户端如何导入订阅"
+intent: "Clash Verge Rev订阅导入与连接排查"
 updated: "2026-10-13"
 kind: "guide"
 ---

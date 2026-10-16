@@ -9,8 +9,8 @@
   {
     "url": "/ranking/budget-shortlist/",
     "cluster": "ranking",
-    "primaryIntent": "不同预算的机场套餐选择",
-    "title": "预算有限时怎样筛选机场：先限定总支出",
+    "primaryIntent": "便宜机场怎么选与机场套餐预算筛选",
+    "title": "便宜机场怎么选：按月付、流量和总支出筛选",
     "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
   },
   {
@@ -51,8 +51,8 @@
   {
     "url": "/pricing/traffic-cost/",
     "cluster": "pricing",
-    "primaryIntent": "机场价格和流量怎么比较",
-    "title": "机场价格和流量怎么比较：有效额度比标称额度更重要",
+    "primaryIntent": "机场套餐价格对比与每GB成本计算",
+    "title": "机场套餐价格对比：流量、周期与每GB成本怎么算",
     "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
   },
   {
@@ -79,8 +79,8 @@
   {
     "url": "/speed-tests/important-metrics/",
     "cluster": "speed-tests",
-    "primaryIntent": "机场测速哪个指标重要",
-    "title": "机场测速哪个指标重要：用途决定测量重点",
+    "primaryIntent": "机场测速指标解读与结果判断",
+    "title": "机场测速怎么看：延迟、速度、丢包和抖动指标",
     "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
   },
   {
@@ -107,8 +107,8 @@
   {
     "url": "/speed-tests/peak-window/",
     "cluster": "speed-tests",
-    "primaryIntent": "机场晚高峰测速方法",
-    "title": "晚高峰稳定性怎样比较：时间窗口比峰值更有用",
+    "primaryIntent": "机场晚高峰测速方法与稳定性判断",
+    "title": "机场晚高峰测速怎么做：比较时段表现与稳定性",
     "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
   },
   {
@@ -177,8 +177,8 @@
   {
     "url": "/tutorials/clash-import/",
     "cluster": "tutorials",
-    "primaryIntent": "Clash客户端如何导入订阅",
-    "title": "Clash Verge Rev如何导入订阅：从格式到连接验证",
+    "primaryIntent": "Clash Verge Rev订阅导入与连接排查",
+    "title": "Clash Verge Rev订阅怎么导入：配置更新与连接排查",
     "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
   },
   {
@@ -268,8 +268,8 @@
   {
     "url": "/knowledge/proxy-vpn/",
     "cluster": "knowledge",
-    "primaryIntent": "代理VPN机场概念区别",
-    "title": "代理、VPN和机场有什么区别：从服务到客户端",
+    "primaryIntent": "梯子机场代理和VPN的区别",
+    "title": "梯子、机场、代理和VPN有什么区别：服务与客户端说明",
     "evidence": "候选编辑意图；无搜索量或CTR数据库证据"
   },
   {
