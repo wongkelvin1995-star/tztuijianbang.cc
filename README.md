@@ -8,7 +8,7 @@
 
 用清晰的数据和标准，读懂每一种选择。
 
-[进入网站首页](https://tztuijianbang.cc/) · [编辑排行榜](https://tztuijianbang.cc/ranking/) · [套餐对比](https://tztuijianbang.cc/pricing/) · [站内搜索](https://tztuijianbang.cc/search/)
+[进入网站首页](https://tztuijianbang.cc/) · [编辑推荐排行榜](https://tztuijianbang.cc/ranking/) · [套餐对比](https://tztuijianbang.cc/pricing/) · [站内搜索](https://tztuijianbang.cc/search/)
 
 </div>
 
@@ -16,9 +16,14 @@
 
 **梯子推荐榜**整理机场推荐与排名的阅读方法、套餐价格与流量规则、节点地区和线路说明，并提供客户端使用教程。本站收录 29 家服务的公开资料；榜单顺序属于编辑整理，不代表客观性能排名。套餐信息来自可回溯的公开参考，不等同于本站实测；请以服务商页面的最新说明为准。
 
+## 编辑推荐排行榜
+
+[查看编辑推荐排行榜 →](https://tztuijianbang.cc/ranking/)
+
+排行榜按本站编辑顺序展示，不代表客观测速排名。套餐与线路信息以各品牌详情页列出的公开来源及适用条件为准。
+
 ## 网站栏目
 
-- [机场排名与比较方法](https://tztuijianbang.cc/ranking/)
 - [机场套餐与价格](https://tztuijianbang.cc/pricing/)
 - [线路与节点知识](https://tztuijianbang.cc/network/)
 - [客户端使用教程](https://tztuijianbang.cc/tutorials/)
@@ -85,9 +90,9 @@ kind: "guide"
 
 build脚本先生成静态HTML，再执行 `pagefind --site dist`。Pagefind Extended对zh-CN进行中文分词，索引文章正文、机场名、英文别名、套餐和教程内容。每次修改正文或资料都重建，发布完整dist，包括pagefind目录。`/search/`只有访问时才加载搜索脚本。搜索页与404不参与索引。`npm run test:search`以纯文件加载方式测试真实索引，拒绝HTTP网络请求；它验证中文及英文别名的结果路由，不替代浏览器和移动端操作验收。
 
-## Cloudflare Pages / GitHub
+## 部署到 Cloudflare Pages
 
-将本目录作为独立Git仓库内容推送到你自己的GitHub项目，生产分支main。Cloudflare Pages连接该仓库，选择静态构建：
+源码托管在 [wongkelvin1995-star/tztuijianbang.cc](https://github.com/wongkelvin1995-star/tztuijianbang.cc)，生产分支为`main`。如将仓库连接到 Cloudflare Pages，请使用以下静态构建设置：
 
 - 根目录：如果仓库直接包含本项目，留空；若仓库为上层目录，填tztuijianbang。
 - 构建命令：`npm run build`
@@ -95,7 +100,7 @@ build脚本先生成静态HTML，再执行 `pagefind --site dist`。Pagefind Ext
 - Node版本：24（`.node-version`固定本次使用版本）
 - 生产分支：`main`
 
-本项目不需要持续Node服务和服务器适配器。GitHub 源码仓库为[wongkelvin1995-star/tztuijianbang.cc](https://github.com/wongkelvin1995-star/tztuijianbang.cc)，生产分支为`main`。Cloudflare Pages 的项目配置和 DNS 状态需在对应账户中核实；以上构建值是项目建议配置，不代表已验证线上部署。不要手动猜测CNAME目的地址。
+本项目不需要持续Node服务和服务器适配器。Cloudflare Pages 的项目配置和 DNS 状态需在对应账户中核实；以上构建值是项目建议配置，不代表已验证线上部署。不要手动猜测CNAME目的地址。
 
 检查 `/`、`/ranking/`、`/pricing/`、文章地址、未知路由404、资源、`/robots.txt`、`/sitemap.xml`、`/sitemap-index.xml`和`/rss.xml`。`_headers`提供基础响应头。对真实生产域名做移动导航、搜索和链接复验。
 
