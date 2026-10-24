@@ -6,7 +6,7 @@ const files=await walk(root),html=files.filter(f=>f.endsWith('.html'));const map
 for(const file of files)map.set('/'+path.relative(root,file).replaceAll('\\','/'),file);
 const errors=[],external=new Set();let links=0,anchors=0;
 for(const f of html){const text=await readFile(f,'utf8');const route='/'+path.relative(root,f).replaceAll('\\','/').replace(/index\.html$/,'');
-for(const [name,pattern] of Object.entries({title:/<title>[^<]+<\/title>/,description:/<meta\s+name="description"\s+content="[^"]+"/,canonical:/<link\s+rel="canonical"\s+href="https:\/\/tztuijianbang\.cc\//,language:/<html\s+lang="zh-CN"/,h1:/<h1[\s>]/}))if(!pattern.test(text))errors.push(`${route}: missing ${name}`);
+for(const [name,pattern] of Object.entries({title:/<title>[^<]+<\/title>/,description:/<meta\s+name="description"\s+content="[^"]+"/,canonical:/<link\s+rel="canonical"\s+href="https:\/\/tztuijianbang\.cc\//,language:/<html\s+lang="zh-CN"/,h1:/<h1[\s>]/})){const noindex=/<meta name="robots" content="noindex/.test(text);if(name==='canonical'&&noindex){if(pattern.test(text))errors.push(`${route}: noindex page should not declare canonical`);}else if(!pattern.test(text))errors.push(`${route}: missing ${name}`);}
 for(const block of text.matchAll(/<script type="application\/ld\+json"[^>]*>(.*?)<\/script>/gs))if(/"@type":"(?:Review|AggregateRating)"/.test(block[1]))errors.push(`${route}: unsupported review schema`);
 const h1=(text.match(/<h1[\s>]/g)||[]).length;if(h1!==1)errors.push(`${route}: ${h1} h1`);
 for(const m of text.matchAll(/(?:href|src)="([^"]*)"/g)){

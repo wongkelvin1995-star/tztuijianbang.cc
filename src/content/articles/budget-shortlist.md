@@ -4,7 +4,7 @@ description: "寻找便宜机场推荐时，先比较真实付款、套餐流量
 category: "ranking"
 date: "2026-10-12"
 intent: "便宜机场怎么选与机场套餐预算筛选"
-updated: "2026-10-13"
+updated: "2026-10-16"
 kind: "guide"
 ---
 

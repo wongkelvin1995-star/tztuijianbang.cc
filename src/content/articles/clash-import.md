@@ -4,7 +4,7 @@ description: "说明Clash Verge Rev订阅导入、配置更新、节点选择和
 category: "tutorials"
 date: "2026-10-12"
 intent: "Clash Verge Rev订阅导入与连接排查"
-updated: "2026-10-13"
+updated: "2026-10-16"
 kind: "guide"
 ---
 

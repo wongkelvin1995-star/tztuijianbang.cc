@@ -4,7 +4,7 @@ description: "比较机场套餐价格时，应按付款周期核对可用流量
 category: "pricing"
 date: "2026-10-12"
 intent: "机场套餐价格对比与每GB成本计算"
-updated: "2026-10-13"
+updated: "2026-10-16"
 kind: "guide"
 ---
 

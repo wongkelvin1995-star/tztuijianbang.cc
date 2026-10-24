@@ -4,3 +4,12 @@
   Permissions-Policy: camera=(), microphone=(), geolocation=()
 /pagefind/*
   Cache-Control: public, max-age=3600
+
+# Cloudflare Pages 的 *.pages.dev 生产/预览地址与正式域名内容完全相同，
+# 按 Cloudflare 官方文档写法禁止其被索引，只让 https://tztuijianbang.cc 收录。
+# 该规则只匹配 pages.dev 主机，不影响正式域名。
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex
+
+https://:version.:project.pages.dev/*
+  X-Robots-Tag: noindex

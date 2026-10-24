@@ -4,7 +4,7 @@ description: "解释常说的梯子或机场服务、代理协议与VPN客户端
 category: "knowledge"
 date: "2026-10-12"
 intent: "梯子机场代理和VPN的区别"
-updated: "2026-10-13"
+updated: "2026-10-16"
 kind: "guide"
 ---
 

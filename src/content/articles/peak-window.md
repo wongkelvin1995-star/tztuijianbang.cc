@@ -4,7 +4,7 @@ description: "机场晚高峰测速需要记录日期、时区、采样窗口、
 category: "speed-tests"
 date: "2026-10-12"
 intent: "机场晚高峰测速方法与稳定性判断"
-updated: "2026-10-13"
+updated: "2026-10-16"
 kind: "guide"
 ---
 
