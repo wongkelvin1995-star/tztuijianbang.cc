@@ -10,7 +10,10 @@
     "check": "astro check",
     "audit:site": "node scripts/audit.mjs",
     "test:search": "node scripts/search-index-test.mjs",
-    "test:airports": "node scripts/airport-data-test.mjs"
+    "test:airports": "node scripts/airport-data-test.mjs",
+    "test:sitemap": "node scripts/sitemap-test.mjs",
+    "verify:live": "node scripts/verify-live.mjs",
+    "indexnow": "node scripts/indexnow.mjs"
   },
   "dependencies": {
     "astro": "7.3.8",

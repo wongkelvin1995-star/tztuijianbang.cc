@@ -4,7 +4,7 @@ description: "看机场测速结果时，要分清延迟、下载速度、丢包
 category: "speed-tests"
 date: "2026-10-12"
 intent: "机场测速指标解读与结果判断"
-updated: "2026-10-13"
+updated: "2026-10-16"
 kind: "guide"
 ---
 

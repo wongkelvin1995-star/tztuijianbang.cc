@@ -7,6 +7,11 @@ export async function getStaticPaths(){return (await getCollection('articles')).
 const {post}=Astro.props;const {Content,headings}=await render(post);
 const airport=post.data.category==='reviews'?airports.find(a=>a.id===post.id):undefined;
 const all=await getCollection('articles');
-const related=airport?airports.filter(a=>a.id!==airport.id).slice(0,3).map(a=>all.find(p=>p.id===a.id)!).filter(Boolean):all.filter(a=>a.data.category===post.data.category&&a.id!==post.id).slice(0,3);
+// 继续阅读：取同组内排在当前文章之后的 3 篇（循环），让每篇测评/指南都获得相近数量的站内入链，
+// 避免所有页面都只链接到排名前 3 的同一批文章。
+const ring=<T,>(list:T[],index:number,n:number)=>list.length<2?[]:Array.from({length:Math.min(n,list.length-1)},(_,i)=>list[(index+1+i)%list.length]);
+const reviewOrder=[...airports].sort((a,b)=>a.rank-b.rank);
+const peers=all.filter(a=>a.data.category===post.data.category).sort((a,b)=>a.id.localeCompare(b.id));
+const related=airport?ring(reviewOrder,reviewOrder.findIndex(a=>a.id===airport.id),3).map(a=>all.find(p=>p.id===a.id)!).filter(Boolean):ring(peers,peers.findIndex(a=>a.id===post.id),3);
 ---
 <Base title={`${post.data.title}｜梯子推荐榜`} description={post.data.description} article={{title:post.data.title,date:post.data.date,updated:post.data.updated}}><article class="wrap section"><header class="reading"><span class="eyebrow">{airport?'AIRPORT REVIEW / 套餐与使用':'COMPARISON NOTES'}</span><h1 data-pagefind-meta="title">{post.data.title}</h1><p class="muted">{post.data.description}</p><p class="source">作者：梯子推荐榜编辑部 · 发布：{post.data.date.toISOString().slice(0,10)}</p><nav class="toc" aria-label="文章目录">{airport&&<><a href="#plans">完整套餐</a><a href="#service-features">线路与功能</a><a href="#client-platforms">四端客户端</a></>}{headings.filter(h=>h.depth===2).map(h=><a href={`#${h.slug}`}>{h.text}</a>)}</nav></header><div class="reading">{airport&&<AirportReview airport={airport}/>}<Content/></div><aside class="reading section" data-pagefind-ignore><h2>继续阅读</h2>{related.map(a=><p><a href={`/${a.data.category}/${a.id}/`}>{a.data.title} ↗</a></p>)}<p><a href="/faq/">查看常见问题</a> · <a href="/about/">资料与编辑原则</a></p></aside></article></Base>

@@ -5,3 +5,6 @@ dist/
 .env.*
 !.env.example
 qa/screenshots/
+qa/live-verify.json
+qa/live-verify.md
+qa/indexnow-last.json
